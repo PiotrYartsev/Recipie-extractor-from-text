@@ -1,0 +1,5082 @@
+x INTRODUCTIONput together a collection of recipes custom curated and adapted for cooks who want to 
+eat Indian food that’s entirely plant-based.
+In this book, you will /f_i  nd plenty of recipes to suit your every need—from simple, 
+quick everyday meals to crowd-pleasers and special festive dishes, as well as classic, 
+popular restaurant favorites. All these recipes have been adapted to the Instant Pot so 
+that you can enjoy the ease of cooking, as well as cleanup, by doing everything in one 
+magical pot. I hope you enjoy cooking and eating these dishes as much as I’ve enjoyed 
+creating them especially for you.SAAG PANEER , page 821CHAPTER ONE
+The 
+Vegan Indian 
+Kitchen
+India is a hugely diverse country, and this is evident in its food 
+as well as in its people. If you traveled throughout all of India, 
+starting from the northernmost point in the  province of Kashmir 
+and slowly descending south, making a pit stop in every major city, 
+you would be pleasantly surprised by the variety of food along the 
+way. While this book can’t possibly cover every style from the vast 
+subcontinent, I’ve tried to be as regionally inclusive as possible in 
+my dishes.
+Since a large majority of the Indian population is mainly 
+ vegetarian, there is no dearth of options for anyone following a 
+vegan diet. In addition to the huge collection of Indian recipes that 
+are already plant-based, there are plenty of others that can be easily 
+altered to be vegan. You’ll /f_i  nd 80 such recipes in the pages that 
+follow. In this chapter, however, I’ll cover the staples, spices, and 
+pantry items you’ll need to get started, as well as how to best use 
+the Instant Pot when cooking Indian food.2 INSTANT POT VEGAN INDIAN COOKBOOKThe Indian Pantry
+If you’re new to Indian cooking and the spice aisles at the local Indian or Asian 
+grocery store intimidate you, don’t fret: Just begin with the basics. Here’s a list of 
+ingredients that you’ll need to make the recipes in this book; they will help you cook 
+many delicious Indian meals any time you want. Have these on hand, and you’ll be set 
+for success in your kitchen.
+SPICES AND HERBS
+Here are some of the most commonly used spices and herbs found in an Indian 
+pantry. Most of these spices are readily available at major grocery stores and can be 
+bought in packs of varying weight. Make sure to store them in a cool, dry place away 
+from any direct heat to prevent them from losing /f_l  avor.
+Must-Haves
+Black peppercorns:  Whole peppercorns are commonly added to slow-simmering 
+curries along with other whole spices to infuse them with a blend of aromatic /f_l  avors.
+Cinnamon sticks:  Cinnamon sticks are commonly used to /f_l  avor curries, soups, and 
+sweets. When added to curries, they give oﬀ   a woody, incense-like aroma. /T_h  ese are 
+for /f_l  avoring and should not be bitten into.
+Cumin seeds:  Whole cumin seeds are most often added at the beginning of the 
+cooking process to hot oil. /T_h  is is called tempering and infuses /f_l  avor.
+Green cardamom pods:  Green cardamom has a slightly sweet aroma and taste. 
+Although it is a popular spice used to /f_l  avor Indian curries, it is also commonly found 
+in Indian desserts. /T_h  e seeds of the cardamom pod are added to spiced Indian tea 
+(chai) while it brews.
+Ground coriander:  Ground coriander is made by dry roasting whole coriander seeds 
+and grinding them /f_i  nely. It pairs wonderfully with ground cumin.
+Ground cumin:  Ground cumin adds a soft, smoky /f_l  avor while cooking. It pairs 
+ perfectly with ground coriander, and they are often used together.
+Ground red chili (cayenne): Red chili powder is made by /f_i  nely grinding dried red 
+chiles. At major chain grocery stores, this spice is often called cayenne.3 THE VEGAN INDIAN KITCHEN Ground turmeric:  Although it lacks a spicy /f_l  avor per se, turmeric has always been 
+used in Indian cooking for its medicinal and ayurvedic properties. A little goes a long 
+way with turmeric, and adding too much of it can give food a slightly bitter taste, so 
+be conservative when adding.
+Mustard seeds:  /T_h  e black mustard seeds used in Indian cooking diﬀ  er in taste from 
+yellow mustard seeds and have a stronger /f_l  avor.
+Salt:  Table salt is most commonly used in Indian cooking and should be added 
+according to your taste preferences.
+Whole cloves:  Cloves impart a robust aroma and a strong, spicy /f_l  avor to a dish. 
+/T_h  ey/uni00A0are also one of the main /f_l  avor enhancers in chai.
+Nice-to-Haves
+/T_h  ese spices are optional, but they are nice to have since they add complexity to dishes 
+and great value to your Indian pantry.
+Black salt: Black salt, also known as Himalayan rock salt or kala namak, is often 
+used in North India as a popular seasoning for fresh-cut fruits and salads.
+Curry leaves: Curry leaves are often tempered in oil to soften and release their char-
+acteristic /f_l  avor in a dish. If you can’t /f_i  nd fresh, frozen is often available, or you can 
+leave them out.
+Kasoori methi: Kasoori methi is dried fenugreek leaves that can be found at any 
+Indian grocery store. It has a subtle pleasant aroma and gives a unique /f_l  avor when 
+added to curries.
+S a ff r o n : Derived from the /f_l  ower of the saﬀ  ron crocus, these long red threads are 
+used for coloring and seasoning foods. Because saﬀ  ron is one of the most expensive 
+spices by weight, only a very small amount is ever used at one time.
+Masalas
+/T_h  ese spice blends are what make Indian curries distinct from other Asian cuisines. 
+Traditionally, these spice blends were freshly ground at home right before use to 
+ensure freshness and maximum /f_l  avor while cooking. But nowadays, you can usu-
+ally /f_i  nd these spices at any Indian grocery store, as well as in most major chain 
+ supermarkets. Common spice blends include:4 INSTANT POT VEGAN INDIAN COOKBOOKAmchur powder:  Also known as dried mango powder, amchur adds a strong tangy 
+/f_l  avor while cooking. If you are unable to /f_i  nd it, you can substitute fresh lemon juice 
+at the end of the cooking process.
+Chaat masala:  A salty-sour spice blend that is usually sprinkled on top of fresh-cut 
+fruit or deep-fried snacks like pakoras to give them an extra edge in /f_l  avor.
+Garam masala:  A robust powdered blend of spices that includes cinnamon, cloves, 
+cumin, peppercorns, and a few others. /T_h  e color and taste in store-bought garam 
+masala often varies depending on the kinds of spices and amounts used.
+Paanch phoron:  /T_h  is is a Bengali spice blend and adds a nice depth of /f_l  avor when 
+used in dal or curry recipes.
+Tandoori masala:  /T_h  is spice blend is most popularly used in marinades while making 
+grilled tikkas and tandoori dishes.
+If you’d like to make your own versions of these common masalas, I include recipes 
+in chapter 7 for Garam Masala (page 110), Tandoori Masala (page 111), and Paanch 
+Phoron (page 112).
+SHOPPING FOR 
+YOUR INDIAN PANTRY
+When it comes to creating an Indian pantry, keep in mind that a cheaper way 
+to shop for most ingredients is to buy them in bulk from your local Indian or 
+ethnic grocery store. Although you will /f_i  nd that they are readily available at 
+major supermarkets, many of the spices, as well as good-quality basmati 
+rice, will end up costing you at least three times more in price. If you don’t 
+have access to an Indian grocer, I’ve included some online suggestions in the 
+Resources section (page 116) for where to /f_i  nd certain ingredients.5 THE VEGAN INDIAN KITCHEN LENTILS AND OTHER LEGUMES
+Lentils play an integral role in an Indian meal. /T_h  ey are usually sold dried in 
+ prepackaged bags or boxes, but can also be bought in bulk. When you’re buying lentils 
+and beans, it is important to keep in mind how much eﬀ  ort you are actually willing 
+to spend in their cooking process. Dried beans like chickpeas and kidney beans taste 
+best when they’re soaked overnight and have enough time to soften. While/uni00A0using 
+the Instant Pot does speed up the cooking process, if using dried beans, they should 
+still be soaked for 2 hours in hot water. Using canned beans and legumes is another 
+option, and one that reduces cooking time as well.
+/T_h  e following are the lentils and other legumes you’ll see repeatedly used in this 
+book’s recipes.
+Black-eyed peas: Black-eyed peas are also known as lobia in India and are typically 
+used in the dried form, so they will need to be pre-soaked before cooking. However, 
+using canned black-eyed peas is a great alternative.
+Black lentils: /T_h  ese lentils take a fairly long time to cook, and they are the main 
+ingredient in the classic dish Dal Makhani (page 76).
+Brown chickpeas:  Also called kala chana, brown chickpeas have a nuttier, earthier 
+taste compared to white chickpeas. When the skins are removed and they are split, 
+you get chana dal.
+Brown masoor lentils: Also called sabut masoor, these lentils are essentially the 
+whole version of split red lentils. Unlike red lentils, masoor lentils hold their shape 
+better, especially in pressure cookers.
+Chana dal:  Chana dal, also known as Bengal gram or split brown chickpeas, tend to 
+look like a smaller version of a chickpea cut in half. /T_h  ey are much more robust in /f_l  avor 
+than whole chickpeas, however, and are a favorite addition to serve at dinner parties.
+Red kidney beans:  Just like chickpeas, these beans, also called rajma, need to be 
+pre-soaked. However, using canned kidney beans is a great alternative.
+Red lentils:  Red lentils, also called masoor, are commonly used in Indian homes 
+since they take the shortest time to cook and require no pre-soaking.
+White chickpeas:  Dried white chickpeas cook best when they are soaked for 6 to 
+8 hours. When in a pinch, you can soak them in hot water for 1 to 2 hours and 
+increase your cook time, or simply use canned versions instead.INSTANT POT VEGAN INDIAN COOKBOOK 6Whole moong lentils:  /T_h  ese look like tiny beans and are green in color.
+Yellow lentils:  Yellow lentils, also called toor dal or pigeon peas, are usually the base 
+for South Indian specialties like Sambhar (page 20).
+Yellow moong lentils:  When you split a whole moong lentil, the small yellow moong 
+lentil is what’s inside. Also called moong dal and yellow split mung beans, they are 
+used to make Moong Dal Halwa (page 92).
+/T_h  e following is a table of Instant Pot cook times for some of the most common 
+dried beans and lentils used in Indian cooking. /T_h  ese cook times assume they have 
+not been pre-soaked.
+Legumes and Rice
+LEGUME 
+OR RICELIQUID PER  
+1 CUP  OF LEGUME 
+OR GRAINMINUTES 
+UNDER 
+PRESSUREPRESSURE 
+LEVELRELEASE
+Basmati rice 1 /one.num⁄/two.den cups 3 HighNatural for 
+10 minutes, then Quick
+Black-eyed peas 2 cups 30 HighNatural for 
+10 minutes, then Quick
+Brown lentils 1 /one.num⁄/two.den cups 10 HighNatural for 
+10 minutes, then Quick
+Chana dal 1 /one.num⁄/two.den cups 8 HighNatural for 
+10 minutes, then Quick
+Chickpeas, white 
+and/uni00A0brown2 cups 30 HighNatural for 
+10 minutes, then Quick
+Green moong 
+lentils1 /one.num⁄/two.den cups 8 HighNatural for 
+10 minutes, then Quick
+Red kidney 
+beans2 cups 30 HighNatural for 
+10 minutes, then Quick
+Red lentils 1 /one.num⁄/two.den cups 3 HighNatural for 
+10 minutes, then Quick
+Yellow lentils 1 /one.num⁄/two.den cups 5 HighNatural for 
+10 minutes, then Quick
+Yellow moong 
+lentils3 cups 5 HighNatural for 
+10 minutes, then Quick7 THE VEGAN INDIAN KITCHEN AROMATICS AND FRESH HERBS
+Fresh herbs like cilantro and mint are regularly used in Indian cooking as a garnish. 
+/T_h  ey also add a pop of color and texture to the dish, along with a fresh /f_l  avor. /T_h  ese 
+herbs, along with fresh aromatic ingredients like ginger, garlic, and dried chiles, are 
+also commonly blended with various spices to create rich and robust chutneys.
+Indian cooking generally calls for fresh herbs to be used as a garnish, and substi-
+tuting the fresh herbs with dried versions won’t give you the desired outcome. If you’re 
+missing the fresh herbs like cilantro or mint leaves for the garnishing, I’d suggest 
+simply leaving them out altogether.
+OTHER INGREDIENTS
+Other pantry staples widely used in Indian cooking include basmati rice, coconut 
+milk, and yogurt. (Using vegan versions of yogurt works just /f_i  ne. More on that on 
+page 9.) With the following items readily stocked in your pantry or refrigerator, you 
+will be ready to create a wide variety of recipes with what you have on hand.
+Basmati rice:  Basmati rice is a /f_l  avorful long-grain Indian rice generally sold in 
+large bags of 5 to 10 pounds each, but can also be found in smaller, more economical 
+sizes. When cooked properly, each grain remains separate from the others without 
+sticking together.
+Canned coconut milk:  Canned coconut milk is a great addition to the pantry. It 
+helps make rich, creamy curries.
+Chickpea ﬂ  our (besan ): Chickpea /f_l  our, commonly called besan in India, is widely 
+used in Indian cooking in recipes like kadhi and pakoras.
+Chutneys: Chutneys are spicy condiments made of fruits or vegetables that combine 
+vinegar, spices, and sugar to complement just about any dish. /T_h  ey are easy to make at 
+home. Mint Chutney (page 104), Tomato Chutney (page 103), and Mango Chutney 
+(page 102) take just minutes to make.
+Semolina:  Semolina, also known as sooji, is basically a form of durum wheat and is 
+often used for making Sooji Halwa (page 91).
+Spinach: Fresh or frozen spinach is a great staple to have for a variety of recipes, 
+including Saag Paneer (page 82), Chana Saag (page 34), and Palak Dal (page 19).INSTANT POT VEGAN INDIAN COOKBOOKTamarind: Tamarind is typically used in South Indian recipes as a souring agent. 
+While traditionally the recipes often call for the use of tamarind juice, you can easily 
+use store-bought tamarind concentrate as a substitute.
+Textured soy protein: While not a traditional Indian staple, if you want to create 
+vegan versions of dishes that involve ground meat, like Keema Matar (page 79) and 
+Keema Pulao (page 83), having textured soy protein on hand is helpful in giving the 
+dish a similar texture and mouthfeel.
+Tomatoes, fresh or canned: Fresh tomatoes are preferred when cooking Indian food, 
+but canned tomatoes also work well in curry recipes if you don’t have fresh on hand.
+Tomato paste : Adding tomato paste into curries intensi/f_i  es the /f_l  avor and adds a 
+nice texture.
+Instant Pot and 
+Indian Cooking
+Most Indian cooking does not really require any special equipment. However, a pres-
+sure cooker has been an integral part of an Indian kitchen for ages, as it saves time 
+and energy. Compared to older pressure cookers, which would hiss every few minutes 
+with their loud whistles and risk bursting open when even slightly over/f_i  lled, many 
+Indian cooks have opted to use the safer, quieter, and more versatile Instant Pot. From 
+lentils to slow-cooked dried beans and curries, an Instant Pot is a great addition to the 
+Indian kitchen.
+With the Instant Pot you have the option to cook a variety of recipes, including 
+curries and vegetable stir-fries, /f_l  avored rice-based meals, and even desserts. /T_h  e 
+Instant Pot is great for cooking classic recipes like Chana Masala (page 28) and Rajma 
+(page 16), where you don’t necessarily want to pre-soak chickpeas or kidney beans 
+overnight. Adjusting the cooking time on the Instant Pot while using these beans in 
+their dried form will ensure you get the best possible results in a fraction of the time.
+89 THE VEGAN INDIAN KITCHEN Vegan Ingredient Substitutes
+Since a large part of the Indian population follows a strict vegetarian diet, dairy 
+plays an important role in the cuisine. Many traditional vegetarian recipes call 
+for the addition of dairy products such as milk, cream, and paneer. These ingre-
+dients, however, can be easily substituted with vegan options today and are just 
+as tasty.
+Cream:  When trying to substitute cream with a vegan option in a traditional 
+Indian recipe, /f_i  nely ground cashew or almond pastes work extremely well. They 
+give a similar texture and color to the recipe that is desired from the addition of 
+a dairy-based cream. You can also use coconut cream (the solid part at the top 
+of the coconut milk can).
+Ghee:  Most traditional Indian recipes call for the use of ghee, but these can 
+easily be adapted by using various cooking oils instead. Neutral oils such as 
+avocado, canola, peanut, and corn oil work well since they can withstand the 
+higher temperatures and longer cooking times that are often called for in 
+Indian cooking.
+Milk:  Coconut milk is most often an excellent substitute for dairy milk in many 
+Indian recipes. It imparts a slightly sweet /f_l  avor and won’t curdle, unlike most 
+nut-based milks, during the cooking process.
+Paneer:  Paneer is widely used as a meat substitute for vegetarians in Indian 
+cuisine and can be swapped with tofu for a vegan option. Although tofu does 
+have a slightly more pronounced /f_l  avor when compared to paneer, the spices in 
+Indian recipes help eliminate it without drastically altering the end result.
+Yogurt:  There are tons of high-quality vegan yogurt options readily available 
+these days. Options include yogurt from oats, soy, coconut, and even tofu, and 
+many of them work extremely well as a substitute in traditional Indian recipes. 
+You may have to experiment with diﬀ  erent brands to /f_i  nd what works best for 
+you, taste-wise.10 INSTANT POT VEGAN INDIAN COOKBOOKTips for Instant Pot Success
+Here are a few tips to ensure success when cooking with the Instant Pot:
+• Never /f_i  ll your Instant Pot over the maximum line given. This will prevent 
+your food from spilling and causing any accidents.
+• Always make sure to deglaze the bottom of the pot if you see that the 
+food starts to stick, to avoid scorching the pot and to prevent your food 
+from burning. Deglazing involves scraping up the browned bits of food 
+using a wooden spoon or other utensil and a splash of water.
+• Make sure that there is enough liquid in the pot to cook the food. If 
+the food looks a bit too dry, add in some water to prevent the food 
+from burning.
+• Always make sure to set the valve to the sealing position before setting 
+your pressure cook timer.
+• When releasing the pressure manually, always keep in mind that steam 
+will escape from the pressure valve quite rapidly—so keep your hands 
+and face away from the steam valve during release to avoid getting hurt.
+• If you live at a high altitude, you’ll have to adjust the cooking times 
+because of the diﬀ  erence in atmospheric pressure. A general rule of 
+thumb is to increase pressure time by 5 percent for every 1,000 feet 
+above 2,000 feet. For instance, if a dish cooks under pressure for 
+20 minutes at sea level, then it would cook for 21 minutes at 3,000 feet, 
+and 23 minutes at 5,000 feet above sea level.11 THE VEGAN INDIAN KITCHEN Flavor-Building Techniques
+/T_h  ere are a few cooking techniques that are mainly pertinent to Indian cooking. 
+Although these techniques are traditionally meant for stove-top cooking, they can be 
+adapted to the Instant Pot by using the Sauté function at the maximum heat level. 
+TOASTING SPICES
+Dry roasting whole spices helps bring out their essential oils and intensi/f_i  es their 
+/f_l  avors and aromas when added to the food. Make sure to keep stirring the spices 
+constantly to keep them from burning.
+TADKA
+Tadka is the process of heating oil and /f_l  avoring it with spices like whole cumin seeds, 
+mustard seeds, and dried chiles. /T_h  is warm oil is then added to cooked dal to give it 
+an extra burst of /f_l  avor right before serving.
+BHUNAO
+/T_h  is is a typical technique in Indian cooking that basically consists of sautéing spices 
+with aromatics like onions, ginger, and/or garlic to ensure that the /f_l  avors are well 
+penetrated throughout the dish. 
+About the Recipes
+/T_h  e recipes I’ve selected for this book work extremely well for the Instant Pot. I’ve 
+tried to include recipes that are most commonly cooked in Indian homes in addition 
+to popular restaurant favorites that represent as many cooking traditions and regions 
+of India as possible.
+I’ve used a 6-quart Instant Pot for all the recipes, which is the perfect size to cook 
+for 4 to 6 people. However, these recipes can be easily adapted to a larger size Instant 
+Pot, as well as more people, if desired.12 INSTANT POT VEGAN INDIAN COOKBOOKFor greater meal planning ease, I’ve included the time the Instant Pot takes to 
+come under pressure, in addition to prep time and time cooked under pressure. 
+Where/uni00A0appropriate, I’ve also included the time it takes to naturally release pressure, 
+so/uni00A0you have an accurate idea of how long a dish will take from start to /f_i  nish.
+For ease of use and to accommodate possible allergies, the recipes indicate whether 
+a recipe is Nut-Free, Gluten-Free, or Soy-Free. /T_h  e Super Fast label notes when a 
+recipe takes 30 minutes or less to make, including prep and cook time.
+Many recipes also include one of the following tips:
+Prep Tip:  /T_h  is involves a shortcut or advice on how to ensure a recipe’s success.
+Ingredient Tip:  /T_h  is is for unusual or uncommon ingredients not mentioned in 
+ chapter 1. It may also suggest a substitute, even if it’s not an exact substitute for 
+the /f_l  avor.
+Variation:  /T_h  is involves a simple swap that increases the versatility of the dish and 
+gives it a diﬀ  erent /f_l  avor pro/f_i  le.CHANA MASALA , page 2815CHAPTER TWO
+Dals and 
+Bean Dishes
+Rajma (Red Kidney 
+Bean Curry) 16
+Chole (Chickpea Curry) 17
+Alu Chana (Chickpeas 
+and Potato Curry) 18
+Palak Dal (Spinach Dal) 19
+Sambhar (South Indian 
+Lentil Stew) 20
+Dal Tadka 21
+Chana Dal Masala 22
+Kali Dal (Curried Black Lentils) 23
+Lobia Masala (Black-Eyed 
+Pea Curry) 24
+Mixed Dal 26
+Chana Masala 28Coconut Chickpea Curry 29
+Vegetable Dal 30
+Masala Masoor Dal (Spiced 
+Lentil Curry) 31
+Kala Chana (Spiced 
+Brown Chickpeas) 32
+Chana Saag (Chickpeas 
+and Spinach) 34
+Zucchini Chana Dal 35
+Alu Lobia (Black-Eyed Peas 
+and Potato Curry) 36
+Chatpata Urad Dal 
+(Tangy Lentils) 37
+Khatti-Meethi Dal (Sweet 
+and Sour Lentils) 3816 INSTANT POT VEGAN INDIAN COOKBOOKRajma (Red Kidney Bean Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 30 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 10 minutes/space.enServes 4
+/T_h  is red kidney bean curry is a favorite in many homes in Northern India and is 
+perfect for an easy, hearty weeknight meal. It is usually served with a side of Perfect 
+Basmati Rice (page 42) and a chopped salad for a simple and well-balanced meal.
+2 tablespoons neutral 
+cooking oil
+1 cinnamon stick
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+3 cups water
+2 (15-ounce) cans red 
+kidney beans, drained 
+and rinsed (if using 
+dried, soak 1 /one.numr⁄/two.dnom cups 
+beans for 2 hours in 
+hot water)
+Fresh cilantro leaves, 
+for garnish1. Select Sauté mode, adjust the heat to high, and 
+put the oil, cinnamon stick, and cumin seeds in the 
+Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, and garam 
+masala and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the water and kidney beans and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned beans or 
+30 minutes on high pressure for dried beans.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with /f_i  nely chopped cilantro and 
+serve warm.
+Per serving: Calories: 276; T otal fat: 9g; Saturated fat: 1g; 
+ Sodium: 299mg; Carbohydrates: 39g; Sugar: 10g; Fiber: 9g; 
+Protein: 13g; Calcium: 108mg17 DALS AND BEAN DISHESChole (Chickpea Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 30 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 10 minutes/space.enServes 4
+In many parts of India, chole is a very popular street food served alongside deep-fried 
+bread called bhature. Chole-Bhature is usually enjoyed as a weekend brunch but 
+ pairing this dish with a side of rice or naan would make it a great lunch option.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+3 cups water
+2 (15-ounce) cans 
+ chickpeas, drained 
+and rinsed (if using 
+dried, soak 1 /one.numr⁄/two.dnom cups for 
+2 hours in hot water)
+Fresh cilantro leaves1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, garam 
+masala, and turmeric and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the water and chickpeas and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned chickpeas or 
+30 minutes on high pressure for dried chickpeas.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with /f_i  nely chopped cilantro and serve warm.
+PREP TIP:  If you have the time, use dried chickpeas 
+pre-soaked for at least 6 hours for best results.
+Per serving: Calories: 290; T otal fat: 11g; Saturated fat: 1g; 
+ Sodium: 294mg; Carbohydrates: 39g; Sugar: 10g; Fiber: 10g; 
+Protein: 11g; Calcium: 89mg18 INSTANT POT VEGAN INDIAN COOKBOOKAlu Chana 
+(Chickpeas and Potato Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 30 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 10 minutes/space.enServes 4
+/T_h  is simple dish of chickpeas and potatoes cooked together in a mild curry is an 
+ absolute comfort food. Pair it with a side of Perfect Basmati Rice (page 42) and a salad 
+for a complete, well-balanced meal.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+3 cups water
+2 medium potatoes, 
+quartered
+2 (15-ounce) cans 
+ chickpeas, drained 
+and rinsed (if using 
+dried, soak 1 /one.numr⁄/two.dnom cups for 
+2 hours in hot water)
+Fresh cilantro leaves1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the red chili, turmeric, coriander, and garam 
+masala and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the water, potatoes, and chickpeas and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned chickpeas or 
+30 minutes on high pressure for dried chickpeas.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with /f_i  nely chopped cilantro and 
+serve warm.
+Per serving: Calories: 357; T otal fat: 11g; Saturated fat: 1g; 
+Sodium: 306mg; Carbohydrates: 55g; Sugar: 10g; Fiber: 13g; 
+Protein: 12g; Calcium: 96mg19 DALS AND BEAN DISHESPalak Dal (Spinach Dal)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 7 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 8 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 47 minutes/space.enServes 4
+/T_h  is green moong lentil dish cooked with spinach is perfect on cold winter nights 
+served alongside some crusty bread as a soup, or paired with rice the traditional way.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 large tomato, /f_i  nely 
+chopped
+3 cups /f_i  nely chopped 
+fresh spinach
+2 cups dried green 
+moong lentils, rinsed 
+and drained
+2 cups water1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the spinach, green moong lentils, and water and 
+stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+8 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Serve warm.
+Per serving: Calories: 435; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 43mg; Carbohydrates: 67g; Sugar: 3g; Fiber: 16g; 
+Protein: 26g;  Calcium: 160mg20 INSTANT POT VEGAN INDIAN COOKBOOKSambhar 
+(South Indian Lentil Stew)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 5 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 41 minutes/space.enServes 4
+Sambhar is a traditional tangy and spicy lentil soup from South India made with a 
+variety of seasonal vegetables. It is mostly paired with crepes called dosas or steamed 
+rice cakes called idlis.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon mustard seeds
+1 medium onion, /f_i  nely 
+chopped
+6 or 7 fresh curry leaves
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons sambhar 
+masala powder
+Salt
+1 large tomato, /f_i  nely 
+chopped
+2 cups dried yellow lentils, 
+rinsed and drained
+2 cups water
+1 teaspoon 
+tamarind paste
+Fresh cilantro leaves /f_i  nely 
+chopped, for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and mustard seeds in the Instant Pot.
+2. Once the mustard seeds start to sizzle, add the onion, 
+curry leaves, garlic, and ginger and cook for 2 to 
+3 minutes, until the onion begins to brown. Keep 
+stirring occasionally to avoid burning.
+3. Add the sambhar masala and season with salt. 
+Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the lentils, water, and tamarind paste and stir 
+well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+5 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 480; T otal fat: 9g; Saturated fat: 1g; 
+ Sodium: 5mg; Carbohydrates: 76g; Sugar: 5g; Fiber: 16g; 
+Protein: 27g;  Calcium: 74mg21 DALS AND BEAN DISHESDal Tadka
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 39 minutes/space.enServes 4
+/T_h  is is a very popular recipe consisting of lentils /f_l  avored simply with fried onions and 
+spices. /T_h  is recipe is a personal favorite of mine for busy days since the lentils are really 
+quick to cook.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 medium onion, 
+/f_i  nely chopped
+1 tablespoon /f_i  nely 
+minced ginger
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon ground 
+coriander
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 medium tomato, 
+/f_i  nely chopped
+2 cups dried red lentils, 
+rinsed and drained
+1 /one.numr⁄/two.dnom cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and ginger and cook for 2 to 3 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the red chili, coriander, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the lentils and water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 423; T otal fat: 9g; Saturated fat: 1g; 
+ Sodium: 14mg; Carbohydrates: 61g; Sugar: 4g; Fiber: 15g; 
+Protein: 27g;  Calcium: 56mgINSTANT POT VEGAN INDIAN COOKBOOK 22Chana Dal Masala
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 6 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 42 minutes/space.enServes 4
+Chana dal masala takes dried chana dal and cooks it down to a tender consistency. 
+It’s/uni00A0/f_l  avored with sautéed onions, ginger, garlic, and a bunch of spices.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 teaspoon fennel seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon 
+tomato paste
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 large tomato, /f_i  nely 
+chopped
+2 cups dried chana 
+dal lentils, rinsed 
+and drained
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and 
+put the oil, cumin seeds, and fennel seeds in the 
+Instant Pot.
+2. Once the cumin and fennel seeds start to sizzle, 
+add the onion, garlic, and ginger and cook for 2 to 
+3 minutes, until the onion begins to brown. Keep 
+stirring occasionally to avoid burning.
+3. Add the tomato paste, coriander, red chili, and 
+ turmeric and season with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the lentils and water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+6 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 395; T otal fat: 10g; Saturated fat: 1g; 
+ Sodium: 8mg; Carbohydrates: 63g; Sugar: 5g; Fiber: 24g; 
+Protein: 15g;  Calcium: 186mg23 DALS AND BEAN DISHESKali Dal (Curried Black Lentils)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 10 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 46 minutes/space.enServes 4
+/T_h  is simple homestyle black lentil curry is made with whole spices and is pure comfort 
+food. /T_h  is is a much simpler and healthier version of the restaurant-style Dal Makhani 
+(page 76) and is best enjoyed with some fresh baked naan and kebabs.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+Salt
+1 large tomato, /f_i  nely 
+chopped
+2 cups dried whole 
+black lentils, rinsed 
+and drained
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 2 to 3 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, and red chili and 
+season with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the lentils and water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+10 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 384; T otal fat: 9g; Saturated fat: 1g; 
+ Sodium: 14mg; Carbohydrates: 57g; Sugar: 5g; Fiber: 21g; 
+Protein: 25g;  Calcium: 63mgINSTANT POT VEGAN INDIAN COOKBOOK 24Lobia Masala 
+(Black-Eyed Pea Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 25 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 5 minutes/space.enServes 4
+Lobia masala is a North Indian–style black-eyed pea curry made with a rich gravy base 
+of sautéed onions and tomatoes. /T_h  is is usually served with warm Indian /f_l  atbreads 
+called rotis, and dry vegetable dishes like Achari Gobi (page 62) or Bhindi do Piaza 
+(page 69) on the side.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon 
+amchur powder
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+3 cups water1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, amchur 
+powder, and turmeric and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the water and black-eyed peas and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned beans or 
+25 minutes on high pressure for dried beans.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.25 DALS AND BEAN DISHES2 (15-ounce) cans 
+black-eyed peas, 
+drained and rinsed 
+(if using dried, soak 
+1 /one.numr⁄/two.dnom cups for 2 hours in 
+hot water)
+Fresh cilantro leaves, /f_i  nely 
+chopped, for garnishPREP TIP:  If you have the time, I’d suggest using dried 
+black-eyed peas pre-soaked overnight or at least 6 hours 
+for best results.
+Per serving: Calories: 261; T otal fat: 9g; Saturated fat: 1g; 
+ Sodium: 55mg; Carbohydrates: 37g; Sugar: 6g; Fiber: 9g; 
+Protein: 12g;  Calcium: 60mgINSTANT POT VEGAN INDIAN COOKBOOK 26Mixed Dal
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 8 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 46 minutes/space.enServes 4
+/T_h  is dal is great when you have a little of everything in your pantry and want to make 
+something quick and wholesome. It pairs great with Perfect Basmati Rice (page 42) 
+and some Kachumber (page 109), or with chutney on the side.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon fennel seeds
+1 teaspoon cumin seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 large tomato, 
+/f_i  nely chopped
+2 cups water1. Select Sauté mode, adjust the heat to high, and 
+put the oil, fennel seeds, and cumin seeds in the 
+Instant Pot.
+2. Once the fennel and cumin seeds start to sizzle, add 
+the onion and garlic and cook for 2 to 3 minutes, 
+until the onion begins to brown. Keep stirring 
+ occasionally to avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the water, moong lentils, red lentils, and toor 
+lentils and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+8 minutes on high pressure.27 DALS AND BEAN DISHES/one.numr⁄/two.dnom cup dried green 
+moong lentils, rinsed 
+and drained
+/one.numr⁄/two.dnom cup dried red lentils, 
+rinsed and drained
+/one.numr⁄/two.dnom cup dried yellow 
+(toor) lentils, rinsed 
+and drained
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+INGREDIENT TIP:  You can mix and match the lentils, 
+depending on what you have in your pantry. Just keep the 
+individual cooking times of each type of lentil you use in 
+mind to gauge the overall cooking time. Adding a mix of 
+quick-cooking and longer-cooking lentils will give your 
+dish great texture.
+Per serving: Calories: 343; T otal fat: 8g; Saturated fat: 1g;  
+Sodium: 15mg; Carbohydrates: 49g; Sugar: 3g; Fiber: 12g; 
+Protein: 20g;  Calcium: 74mgINSTANT POT VEGAN INDIAN COOKBOOK 28Chana Masala
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 30 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 10 minutes/space.enServes 4
+/T_h  is spicy chickpea curry is a popular restaurant favorite and most commonly eaten 
+with deep-fried puﬀ  y bread, called puris, for a hearty weekend brunch. I personally 
+love to have this with a side of Jeera Rice (page 44) and some Kachumber (page 109).
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+/one.numr⁄/two.dnom teaspoon 
+amchur powder
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+3 cups water
+2 (15-ounce) cans 
+ chickpeas, drained 
+and rinsed (if using 
+dried, soak 1 /one.numr⁄/two.dnom cups for 
+2 hours in hot water)
+Fresh cilantro leaves1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, garam 
+masala, amchur powder, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the water and chickpeas and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned chickpeas or 
+30 minutes on high pressure for dried chickpeas.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with /f_i  nely chopped cilantro and 
+serve warm.
+Per serving: Calories: 290; T otal fat: 11g; Saturated fat: 1g; 
+Sodium: 294mg; Carbohydrates: 39g; Sugar: 10g; Fiber: 10g; 
+Protein: 11g; Calcium: 91mg29 DALS AND BEAN DISHESCoconut Chickpea Curry
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 3 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 30 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 5 minutes/space.enServes 4
+/T_h  is is a mildly spiced coconut-based curry with chickpeas that pairs well with 
+a side of Perfect Basmati Rice (page 42). Although it is quick and easy to make, 
+the end result seems like you worked hard on the dish, making this a great recipe 
+for entertaining!
+2 tablespoons neutral 
+cooking oil
+1 cinnamon stick
+3 or 4 whole green 
+cardamom pods
+1 large onion, thinly sliced
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 (15-ounce) cans 
+ chickpeas, drained 
+and rinsed (if using 
+dried, soak 1 /one.numr⁄/two.dnom cups for 
+2 hours in hot water)
+2 cups water
+1 cup full-fat coconut milk
+1 large tomato, 
+/f_i  nely chopped
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil, cinnamon stick, and cardamom pods in the 
+Instant Pot.
+2. Once the cardamom pods start to sizzle, add the 
+onion, garlic, and ginger and cook for 1 to 2 minutes, 
+until the onion begins to brown. Keep stirring occa-
+sionally to avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Add the chickpeas, water, coconut milk, and tomato 
+and stir well to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned chickpeas or 
+30 minutes on high pressure for dried chickpeas.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 381; T otal fat: 21g; Saturated fat: 11g; 
+Sodium: 293mg; Carbohydrates: 40g; Sugar: 10g; Fiber: 10g; 
+Protein: 11g; Calcium: 83mgINSTANT POT VEGAN INDIAN COOKBOOK 30Vegetable Dal
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 39 minutes/space.enServes 4
+Inspired by a traditional Parsi dish called dhansak, this vegetable dal is slow cooked 
+with a mix of seasonal vegetables and spices. Y ou can change up the vegetables 
+depending on what’s in season and your preference.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 medium tomato, 
+/f_i  nely chopped
+2 cups dried red lentils, 
+rinsed and drained
+1 /one.numr⁄/two.dnom cups water
+/one.numr⁄/two.dnom cup /f_i  nely chopped 
+carrots
+/one.numr⁄/two.dnom cup /f_i  nely chopped 
+green beans
+/one.numr⁄/two.dnom cup frozen 
+peas, thawed
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 2 to 3 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the lentils, water, carrots, green beans, and peas 
+and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 451; T otal fat: 9g; Saturated fat: 1g; 
+Sodium: 44mg; Carbohydrates: 66g; Sugar: 6g; Fiber: 17g; 
+Protein: 28g;  Calcium: 71mg31 DALS AND BEAN DISHESMasala Masoor Dal 
+(Spiced Lentil Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 5 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 43 minutes/space.enServes 4
+/T_h  is is one of the most common everyday dal recipes eaten in many Indian homes. It/uni00A0is 
+simple, quick, and perfect for a busy weeknight. Add in some rice or rotis on the side 
+and a dry vegetable dish like Baingan Bharta (page 65), and you will have a delicious, 
+complete meal.
+2 tablespoons neutral 
+cooking oil
+1 cinnamon stick
+1 teaspoon cumin seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+1 large tomato, /f_i  nely 
+chopped
+2 cups dried brown 
+masoor lentils, rinsed 
+and drained
+2 cups water
+Fresh cilantro leaves, /f_i  nely 
+chopped, for garnish1. Select Sauté mode, adjust the heat to high, and 
+put the oil, cinnamon stick, and cumin seeds in the 
+Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 2 to 3 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the coriander, red chili, turmeric, and garam 
+masala and season with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the lentils and water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+5 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 414; T otal fat: 7g; Saturated fat: 1g; 
+Sodium: 15mg; Carbohydrates: 60g; Sugar: 2g; Fiber: 29g; 
+Protein: 27g;  Calcium: 99mgINSTANT POT VEGAN INDIAN COOKBOOK 32KalA Chana 
+(Spiced Brown Chickpeas)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes, plus 2 hours’ soak time/space.enSauté time: 8 minutes/space.enPressure build: 
+8 to 10 minutes/space.enPressure cook: 30 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 3 hours, 10 minutes/space.enServes 4
+/T_h  is is a wonderful dish to make ahead as the /f_l  avors only deepen as it sits. When 
+ready to eat, simply heat it up and garnish with fresh cilantro leaves and a sprinkle of 
+lemon juice./uni00A0Brown chickpeas, popularly known as kala chana in India, are a vari-
+ety of chickpea that is a darker brown color and slightly smaller in size. /T_h  ey need 
+to be soaked for 2 hours before cooking, so factor that into your prep time. If you 
+have trouble /f_i  nding them at your store, you can substitute the more common white 
+chickpeas instead.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 teaspoon fennel seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)1. Select Sauté mode, adjust the heat to high, and 
+put the oil, cumin seeds, and fennel seeds in the 
+Instant Pot.
+2. Once the cumin and fennel seeds start to sizzle, 
+add the onion, garlic, and ginger and cook for 3 to 
+4 minutes, until the onion begins to brown. Keep 
+stirring occasionally to avoid burning.
+3. Add the tomato paste, coriander, red chili, garam 
+masala, amchur powder, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the brown chickpeas and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+30 minutes on high pressure.33 DALS AND BEAN DISHES/one.numr⁄/two.dnom teaspoon 
+amchur powder
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+2 cups dried brown 
+ chickpeas, soaked for 
+2 hours in hot water
+3 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish
+Freshly squeezed lemon 
+juice, for garnish7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and lemon juice and 
+serve warm.
+SUBSTITUTION TIP: If using canned white chickpeas, set 
+the timer for 20 minutes on high pressure.
+Per serving: Calories: 427; T otal fat: 12g; Saturated fat: 1g; 
+Sodium: 32mg; Carbohydrates: 64g; Sugar: 14g; Fiber: 18g; 
+Protein: 20g; Calcium: 117mg34 INSTANT POT VEGAN INDIAN COOKBOOKChana Saag 
+(Chickpeas and Spinach)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 30 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 10 minutes/space.enServes 4
+/T_h  is recipe is a family favorite and one of my comfort meals on cold winter nights. 
+I/uni00A0love to serve it with a side of warm naan and some cool Cucumber Raita (page 107) 
+or Beetroot Raita (page 106).
+2 tablespoons neutral 
+cooking oil
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+4 cups /f_i  nely chopped 
+fresh spinach
+3 cups water
+2 (15-ounce) cans 
+ chickpeas, drained 
+and rinsed (if using 
+dried, soak 1 /one.numr⁄/two.dnom cups for 
+2 hours in hot water)1. Select Sauté mode, and adjust the heat to high. 
+Put the oil, onion, garlic, and ginger in the Instant 
+Pot, and cook for 3 to 4 minutes, until the onion 
+begins to brown. Keep stirring occasionally to 
+avoid burning.
+2. Add the tomato paste, coriander, red chili, garam 
+masala, and turmeric and season with salt. Mix well.
+3. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+4. Add the spinach, water, and chickpeas and stir well 
+to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned chickpeas or 
+30 minutes on high pressure for dried chickpeas.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Serve warm.
+Per serving: Calories: 297; T otal fat: 11g; Saturated fat: 1g; 
+Sodium: 317mg; Carbohydrates: 40g; Sugar: 10g; Fiber: 11g; 
+Protein: 12g; Calcium: 119mg35 DALS AND BEAN DISHESZucchini Chana Dal
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 6 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 41 minutes/space.enServes 4
+/T_h  is is a common recipe found in most parts of  Northern India. It is quick and simple 
+to cook, and the addition of zucchini to the dal brings a whole new depth of /f_l  avor 
+along with making it a highly nutritious meal.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 teaspoon fennel seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced ginger
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon ground 
+coriander
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon 
+amchur powder
+Salt
+1 medium tomato, 
+/f_i  nely chopped
+2 medium zucchini, 
+roughly chopped
+2 cups dried chana 
+dal lentils, rinsed 
+and drained
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and 
+put the oil, cumin seeds, and fennel seeds in the 
+Instant Pot.
+2. Once the cumin and fennel seeds start to sizzle, add 
+the onion and ginger and cook for 1 to 2 minutes, 
+until the onion begins to brown. Keep stirring occa-
+sionally to avoid burning.
+3. Add the red chili, coriander, turmeric, and amchur 
+powder and season with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the zucchini, lentils, and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+6 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 402; T otal fat: 11g; Saturated fat: 1g;  
+Sodium: 12mg; Carbohydrates: 64g; Sugar: 7g; Fiber: 24g; 
+Protein: 16g;  Calcium: 198mg36 INSTANT POT VEGAN INDIAN COOKBOOKAlu Lobia (Black-Eyed Peas 
+and Potato Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 20 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour/space.enServes 4
+/T_h  is simple dish of black-eyed peas and potatoes cooked together in a mild curry is an 
+absolute comfort food. Pair it with a side of Perfect Basmati Rice (page 42) and salad 
+for a complete, well-balanced meal.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+3 cups water
+2 medium potatoes, 
+quartered
+2 cups canned black-eyed 
+peas, drained and rinsed 
+(if using dried, soak for 
+2 hours in hot water)
+Fresh cilantro leaves, /f_i  nely 
+chopped, for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the coriander, red chili, turmeric, and garam 
+masala and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the water, potatoes, and black-eyed peas and stir 
+well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+20 minutes on high pressure for canned black-eyed 
+peas or 25 minutes for dried black-eyed peas.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 262; T otal fat: 8g; Saturated fat: 1g;  
+Sodium: 49mg; Carbohydrates: 41g; Sugar: 6g; Fiber: 8g; 
+Protein: 9g;  Calcium: 56mg37 DALS AND BEAN DISHESChatpata Urad Dal 
+(Tangy Lentils)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 8 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 42 minutes/space.enServes 4
+/T_h  is recipe is a wonderful change from traditional lentil dishes. Serve it with a mild 
+pulao, such as Peas Pulao (page 43), Jeera Rice (page 44), and a fresh salad or Cucum-
+ber Raita (page 107) on the side.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, thinly sliced
+1 tablespoon /f_i  nely 
+minced ginger
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon 
+amchur powder
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 cups dried whole white 
+urad lentils, rinsed 
+and drained
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish
+Freshly squeezed lime 
+juice for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and ginger and cook for 1 to 2 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the coriander, red chili, amchur powder, and 
+turmeric and season with salt. Mix well.
+4. Add the lentils and water and stir well to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+8 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and a generous squeeze of lime 
+juice and serve warm.
+Per serving: Calories: 323; T otal fat: 9g; Saturated fat: 1g;  
+Sodium: 3mg; Carbohydrates: 47g; Sugar: 2g; Fiber: 9g; 
+Protein: 19g;  Calcium: 45mg38 INSTANT POT VEGAN INDIAN COOKBOOKKhatti-Meethi Dal 
+(Sweet and Sour Lentils)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 5 minutes/space.enPressure release: Natural, 8 to 10 minutes
+Total time: 43 minutes/space.enServes 4
+/T_h  is quick and simple dish is my version of the classic Gujarati-style dal with a slight 
+sweet and sour /f_l  avor. Sugar and lime juice balance well to create this eﬀ  ect.
+2 tablespoons neutral 
+cooking oil
+6 or 7 fresh curry leaves
+1 teaspoon cumin seeds
+1 teaspoon mustard seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced ginger
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 large tomato, /f_i  nely 
+chopped
+2 cups dried yellow lentils, 
+rinsed and drained
+2 cups water
+1 tablespoon sugar
+2 tablespoons freshly 
+squeezed lime juice
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil, curry leaves, cumin seeds, and mustard seeds 
+in the Instant Pot.
+2. Once the cumin and mustard seeds start to sizzle, 
+add the onion and ginger and cook for 2 to 
+3 minutes, until the onion begins to brown. Keep 
+stirring occasionally to avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomato and cook for 2 to 3 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the lentils, water, and sugar and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+5 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 8 to 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with lime juice and cilantro and serve warm.
+Per serving: Calories: 446; T otal fat: 9g; Saturated fat: 1g;  
+Sodium: 15mg; Carbohydrates: 66g; Sugar: 8g; Fiber: 15g; 
+Protein: 27g;  Calcium: 90mgVEGETABLE BIRYANI , page 4641CHAPTER THREE
+Rice Dishes
+Perfect Basmati Rice 42
+Peas Pulao 43
+Jeera Rice (Cumin Rice) 44
+Tomato Rice 45
+Vegetable Biryani 46
+Lemon Rice 48
+Kichdi 49
+Chana Pulao 50
+Coconut Rice 51
+Rajma Pulao 52
+Palak Rice 53
+Kashmiri Pulao 54
+Tehri 55
+Masala Pulao 56
+Potato Mint Pulao 5742 INSTANT POT VEGAN INDIAN COOKBOOKPerfect Basmati Rice
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 1 minute/space.enPressure build: 8 to 10 minutes/space.enPressure cook: 3 minutes
+Pressure release: Natural, 10 minutes/space.enTotal time: 24 minutes/space.enServes 4
+Basmati rice is one of the most popular types of rice that comes from India. /T_h  e word 
+basmati means “full of /f_l  avor” in Hindi, and the slightly nutty grain is true to its word. 
+It is fragrant and best enjoyed when the rice grains are tender yet not sticky. Be sure to 
+rinse the rice thoroughly until the water runs clear to remove excess starch and ensure 
+separate, distinct grains.
+2 cups basmati 
+rice, rinsed
+3 cups water1. Put the rice and water in the Instant Pot, lock the lid, 
+and close the steam valve. Press Manual and set the 
+timer for 3 minutes on high pressure.
+2. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+3. Carefully /f_l  uﬀ   the rice with a fork and serve warm.
+PREP TIP: Always remember to use a fork while /f_l  uﬃ   ng 
+the rice when it is warm to keep the grains from clumping 
+with one another.
+Per serving: Calories: 320; T otal fat: 1g; Saturated fat: 0g; 
+Sodium: 0mg; Carbohydrates: 72g; Sugar: 0g; Fiber: 0g; 
+Protein: 6g;  Calcium: 0mg43 RICE DISHESPeas Pulao
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+/T_h  is simple, /f_l  avorful dish involves basmati rice cooked with peas and fragrant spices. 
+It’s best enjoyed as a side with curries like Rajma (page 16) or Chana Dal Masala 
+(page 22) and Cucumber Raita (page 107).
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+2 cups basmati 
+rice, rinsed
+1 cup frozen peas, thawed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and cook for 1 to 2 minutes, until the onion begins to 
+brown. Keep stirring occasionally to avoid burning.
+3. Add the rice and peas and give it a quick stir to 
+mix well.
+4. Add the water and season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+VARIATION: Instead of using just peas, you can add a mix 
+of frozen chopped vegetables to the recipe for more /f_l  avor 
+and nutrition.
+Per serving: Calories: 385; T otal fat: 5g; Saturated fat: 1g; 
+Sodium: 38mg; Carbohydrates: 78g; Sugar: 2g; Fiber: 2g; 
+Protein: 8g;  Calcium: 16mgINSTANT POT VEGAN INDIAN COOKBOOK 44Jeera Rice (Cumin Rice)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 3 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 31 minutes/space.enServes 4
+/T_h  is fragrant basmati rice cooked with toasted cumin pairs perfectly with curries like 
+Matar Paneer (page 61) or Dal Makhani (page 76).
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the rice and 
+give it a quick stir to mix well.
+3. Add the water and season with salt. Mix again.
+4. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+5. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+6. Garnish with cilantro and serve warm.
+VARIATION: You can add in a mix of frozen chopped 
+ vegetables along with the rice to the recipe to make a 
+quick and easy version of Vegetable Pulao.
+Per serving: Calories: 352; T otal fat: 5g; Saturated fat: 1g; 
+Sodium: 1mg; Carbohydrates: 72g; Sugar: 0g; Fiber: <1g; 
+Protein: 6g;  Calcium: 5mg45 RICE DISHESTomato Rice
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 33 minutes/space.enServes 4
+Tomato rice is a popular recipe from South India where rice is cooked in a spiced 
+tomato broth. Y ou can pair it with a vegetable dish like Achari Gobi (page 62) or 
+Alu Baingan (page 63) on the side.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon mustard seeds
+1 medium onion, 
+thinly sliced
+4 or 5 fresh curry leaves
+1 or 2 garlic cloves, 
+thinly sliced
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+1 large tomato, roughly 
+chopped
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and mustard seeds in the Instant Pot.
+2. Once the mustard seeds start to sizzle, add the onion, 
+curry leaves, and garlic and cook for 2 to 3 minutes, 
+until the onion begins to brown. Keep stirring occa-
+sionally to avoid burning.
+3. Add the coriander, red chili, and turmeric and 
+mix well.
+4. Add the tomato and mix well to coat with the spices.
+5. Slowly add the rice and mix well.
+6. Add the water and season with salt. Mix again.
+7. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+8. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+9. Garnish with cilantro and serve warm.
+Per serving: Calories: 378; T otal fat: 5g; Saturated fat: 1g; 
+Sodium: 4mg; Carbohydrates: 78g; Sugar: 2g; Fiber: 1g; 
+Protein: 7g;  Calcium: 45mgINSTANT POT VEGAN INDIAN COOKBOOK 46Vegetable Biryani
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 10 minutes
+Total time: 39 minutes/space.enServes 4
+One of the most popular restaurant favorites, vegetable biryani is a rice-based dish 
+traditionally slow cooked with spiced seasonal vegetables. Here the Instant Pot speeds 
+up the process. For vegetables, I use tomato, potatoes, carrots, peas, and corn, but feel 
+free to experiment with other vegetables you like or have on hand.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+4 or 5 green 
+cardamom pods
+4 or 5 whole cloves
+1 medium onion, 
+thinly sliced
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+8 baby potatoes, halved
+1 medium tomato, cut 
+into wedges1. Select Sauté mode, adjust the heat to high, and put 
+the oil, cumin seeds, cardamom pods, and whole 
+cloves in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 2 to 3 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the coriander, red chili, garam masala, and 
+ turmeric and mix well.
+4. Add the tomato, potatoes, carrots, peas, and corn and 
+mix well to coat with the spices.
+5. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.47 RICE DISHES1 cup sliced carrots
+/one.numr⁄/two.dnom cup frozen peas, thawed
+/one.numr⁄/two.dnom cup frozen 
+corn, thawed
+2 cups basmati rice, rinsed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish
+Fresh mint leaves, /f_i  nely 
+chopped, for garnish7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and mint and serve warm.
+Per serving: Calories: 518; T otal fat: 9g; Saturated fat: 1g; 
+Sodium: 139mg; Carbohydrates: 99g; Sugar: 5g; Fiber: 3g; 
+Protein: 11g;  Calcium: 45mg48 INSTANT POT VEGAN INDIAN COOKBOOKLemon Rice
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 33 minutes/space.enServes 4
+Another South Indian dish, lemon rice is served mostly during lunch. /T_h  e lemon adds 
+a slight tang to the dish and the peanuts oﬀ  er a nice crunch. If you don’t have peanuts, 
+swap them for cashews. /T_h  is rice goes great with Sambhar (page 20) and Bharwan 
+Baingan (page 68).
+1 tablespoon neutral 
+cooking oil
+1 teaspoon mustard seeds
+1 medium onion, 
+thinly sliced
+4 or 5 fresh curry leaves
+/one.numr⁄ /four.dnom cup raw peanuts
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+2 tablespoons freshly 
+squeezed lemon juice
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and mustard seeds in the Instant Pot.
+2. Once the mustard seeds start to sizzle, add the onion 
+and curry leaves and cook for 2 to 3 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the peanuts, coriander, red chili, and turmeric 
+and mix well.
+4. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with lemon juice and cilantro and 
+serve warm.
+Per serving: Calories: 420; T otal fat: 9g; Saturated fat: 1g; 
+Sodium: 3mg; Carbohydrates: 78g; Sugar: 2g; Fiber: 1g; 
+Protein: 9g;  Calcium: 48mg49 RICE DISHESKichdi
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+Kichdi is a quick and simple comfort dish that’s made with mildly spiced rice and dal 
+or lentils. Red lentils are the quickest to cook, but you can also use moong or chana 
+dal. Adding vegetables like carrots, potatoes, peas, or cauli/f_l  ower is a good way to bulk 
+up the recipe and make it more nutrient dense.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+1 teaspoon /f_i  nely 
+minced garlic
+1 teaspoon /f_i  nely 
+minced ginger
+1 medium tomato, 
+/f_i  nely chopped
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+1 cup dried red 
+lentils, rinsed
+2 cups basmati 
+rice, rinsed
+4 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 1 to 2 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato, coriander, red chili, and turmeric 
+and mix well.
+4. Slowly add the lentils and rice and mix well. Add the 
+water and season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 539; T otal fat: 6g; Saturated fat: 1g; 
+Sodium: 9mg; Carbohydrates: 104g; Sugar: 3g; Fiber: 8g; 
+Protein: 20g;  Calcium: 35mg50 INSTANT POT VEGAN INDIAN COOKBOOKChana Pulao
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+A /f_l  avorful rice-based dish cooked with chickpeas and seasoned with fragrant whole 
+spices, this recipe is perfect when you’re short on time and want a quick, comforting 
+meal. Pair it with Cucumber Raita (page 107) or Mint Chutney (page 104) on the side 
+as an accompaniment.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+1 teaspoon /f_i  nely 
+minced garlic
+1 teaspoon /f_i  nely 
+minced ginger
+1 cup canned 
+chickpeas, rinsed
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 1 to 2 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the chickpeas, coriander, red chili, turmeric, and 
+garam masala and mix well.
+4. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 416; T otal fat: 6g; Saturated fat: 1g; 
+Sodium: 83mg; Carbohydrates: 83g; Sugar: 2g; Fiber: 3g; 
+Protein: 9g;  Calcium: 29mg51 RICE DISHESCoconut Rice
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 3 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 31 minutes/space.enServes 4
+/T_h  is basmati rice is cooked in coconut milk and /f_l  avored with curry leaves and spices. 
+/T_h  is recipe pairs perfectly with Beetroot Raita (page 106) or Tomato Chutney 
+(page/uni00A0103) on the side.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon mustard seeds
+1 medium onion, 
+thinly sliced
+4 or 5 fresh curry leaves
+2 cups basmati 
+rice, rinsed
+2 cups water
+1 cup full-fat coconut milk
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and mustard seeds in the Instant Pot.
+2. Once the mustard seeds start to sizzle, add the onion 
+and curry leaves and cook for 2 to 3 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Slowly add the rice and mix well. Add the water and 
+coconut milk and season with salt. Mix again.
+4. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+5. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+6. Garnish with cilantro and serve warm.
+PREP TIP: Make sure to give your coconut milk a good mix 
+before adding it into the pot. /T_h  is will ensure that the fat is 
+evenly distributed and blends in well with the rice.
+Per serving: Calories: 469; T otal fat: 15g; Saturated fat: 10g; 
+Sodium: 7mg; Carbohydrates: 78g; Sugar: 3g; Fiber: 1g; 
+Protein: 8g;  Calcium: 39mg52 INSTANT POT VEGAN INDIAN COOKBOOKRajma Pulao
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+Rajma pulao is a /f_l  avorful rice-based dish cooked with red kidney beans and  seasoned 
+with fragrant whole spices. Serve it with vegetable dishes like Kaddu ki Sabzi 
+(page/uni00A072) or Kadhai Mushroom (page 71) with Cucumber Raita (page 107).
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+1 teaspoon /f_i  nely 
+minced garlic
+1 teaspoon /f_i  nely 
+minced ginger
+1 cup canned red 
+kidney beans, drained 
+and rinsed
+1 medium tomato, 
+/f_i  nely chopped
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 1 to 2 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the kidney beans, tomato, coriander, red chili, 
+and turmeric and mix well.
+4. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 418; T otal fat: 5g; Saturated fat: 1g; 
+Sodium: 86mg; Carbohydrates: 84g; Sugar: 3g; Fiber: 3g; 
+Protein: 10g;  Calcium: 37mg53 RICE DISHESPalak Rice
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+Also known as green rice due to its vibrant color, this popular recipe consists of 
+ basmati rice cooked with /f_i  nely chopped spinach. Y ou can also use frozen spinach 
+instead to make this even easier.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+1 teaspoon /f_i  nely 
+minced garlic
+2 cups /f_i  nely chopped 
+fresh spinach
+1 medium tomato, 
+/f_i  nely chopped
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and garlic and cook for 1 to 2 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the spinach, tomato, coriander, and red chili and 
+mix well.
+4. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Serve warm.
+Per serving: Calories: 370; T otal fat: 5g; Saturated fat: 1g; 
+ Sodium: 15mg; Carbohydrates: 76g; Sugar: 2g; Fiber: 1g; 
+Protein: 7g; Calcium: 29mg54 INSTANT POT VEGAN INDIAN COOKBOOKKashmiri Pulao
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 3 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 31 minutes/space.enServes 4
+A traditional pulao from the northernmost part of India, this dish is /f_l  avored with 
+dried fruit and nuts. While this pulao uses a combination of cashews, almonds, and 
+raisins, you can mix and match any other dried fruits and nuts you have on hand to 
+make it your own.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+2 cups basmati 
+rice, rinsed
+/one.numr⁄ /four.dnom cup roughly chopped 
+cashews
+/one.numr⁄ /four.dnom cup roughly chopped 
+almonds
+/one.numr⁄ /four.dnom cup raisins
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the rice, 
+cashews, almonds, and raisins and mix well.
+3. Add the water and season with salt. Mix again.
+4. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+5. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+6. Garnish with cilantro and serve warm.
+Per serving: Calories: 471; T otal fat: 12g; Saturated fat: 1g; 
+Sodium: 4mg; Carbohydrates: 84g; Sugar: 7g; Fiber: 2g; 
+Protein: 10g;  Calcium: 35mg55 RICE DISHESTehri
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+Tehri is a typical one-pot homestyle recipe made with rice and potatoes and is  usually 
+served as a quick lunch with a side of raita. Try this with either Cucumber Raita 
+(page 107) or Beetroot Raita (page 106). Y ou can also add carrots and cauli/f_l  ower to 
+bulk up the recipe even more.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+1 teaspoon /f_i  nely 
+minced garlic
+1 teaspoon /f_i  nely 
+minced ginger
+2 medium potatoes, 
+quartered
+/one.numr⁄/two.dnom cup frozen 
+peas, thawed
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 1 to 2 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the potatoes, peas, coriander, red chili, and 
+ turmeric and mix well.
+4. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 449; T otal fat: 5g; Saturated fat: 1g; 
+Sodium: 37mg; Carbohydrates: 94g; Sugar: 3g; Fiber: 4g; 
+Protein: 9g;  Calcium: 25mg56 INSTANT POT VEGAN INDIAN COOKBOOKMasala Pulao
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+A spicy dish of basmati rice cooked with sautéed onions and tomatoes, this pulao is 
+great eaten on its own with Cucumber Raita (page 107) or paired with Khatti-Meethi 
+Dal (page 38) on the side.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+1 teaspoon /f_i  nely 
+minced garlic
+1 teaspoon /f_i  nely 
+minced ginger
+1 large tomato, roughly 
+chopped
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 1 to 2 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato, coriander, red chili, turmeric, and 
+garam masala and mix well.
+4. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 371; T otal fat: 5g; Saturated fat: 1g; 
+Sodium: 4mg; Carbohydrates: 76g; Sugar: 2g; Fiber: 1g; 
+Protein: 7g;  Calcium: 16mg57 RICE DISHESPotato Mint Pulao
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 4
+/T_h  is is a quick pulao made with chopped potatoes and simply seasoned with spices and 
+fresh mint. Serve this with Dal Tadka (page 21) and Saag Paneer (page 82).
+1 tablespoon neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 small onion, thinly sliced
+2 medium potatoes, cut 
+into 1-inch pieces
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+2 cups basmati 
+rice, rinsed
+3 cups water
+Salt
+Fresh mint leaves, /f_i  nely 
+chopped, for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and cook for 1 to 2 minutes, until the onion begins to 
+brown. Keep stirring occasionally to avoid burning.
+3. Add the potatoes, coriander, red chili, and turmeric 
+and mix well.
+4. Slowly add the rice and mix well. Add the water and 
+season with salt. Mix again.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with mint and serve warm.
+Per serving: Calories: 434; T otal fat: 5g; Saturated fat: 1g; 
+Sodium: 19mg; Carbohydrates: 91g; Sugar: 2g; Fiber: 3g; 
+Protein: 8g;  Calcium: 21mgALU MATAR , page 6059CHAPTER FOUR
+Curries
+Alu Matar (Potato and Pea Curry) 60
+Matar Paneer (Pea and Tofu Curry) 61
+Achari Gobi (Spiced Cauliﬂ  ower) 62
+Alu Baingan (Eggplant and Potato Curry) 63
+Gajar Gobi Matar (Carrots, Cauliﬂ  ower, and Peas) 64
+Baingan Bharta (Spiced Eggplant Mash) 65
+Mushroom Matar (Mushroom and Pea Curry) 66
+Vegetable Korma 67
+Bharwan Baingan (Stuﬀ  ed Eggplants) 68
+Bhindi do Piaza (Okra with Onions) 69
+Alu Bhaji (Potato Curry) 70
+Kadhai Mushroom (Mushrooms and Peppers) 71
+Kaddu ki Sabzi (Spiced Butternut Squash) 72
+Corn Masala Curry 7360 INSTANT POT VEGAN INDIAN COOKBOOKAlu Matar 
+(Potato and Pea Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 42 minutes/space.enServes 4
+/T_h  is quick and light potato and pea curry is cooked in a mildly spiced tomato-based 
+gravy. Pair this with Jeera Rice (page 44) and a vegetable dish like Achari Gobi 
+(page/uni00A062) or Achari Paneer Tikka (page 80).
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+4 medium potatoes, diced 
+into bite-size cubes
+2 cups frozen 
+peas, thawed
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and garlic and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the potatoes, peas, and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 293; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 113g; Carbohydrates: 50g; Sugar: 9g; Fiber: 10g; 
+Protein: 8g;  Calcium: 60mg61 CURRIESMatar Paneer 
+(Pea and Tofu Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 42 minutes/space.enServes 4
+/T_h  is paneer and pea curry is a classic dish made vegan by using tofu instead of paneer. 
+Extra-/f_i  rm tofu is very similar to paneer in texture and can easily absorb the /f_l  avors of 
+the spices.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon 
+ground coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon 
+ground cumin
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+10 /one.numr⁄/two.dnom ounces extra-/f_i  rm 
+tofu, cut into 
+bite-size cubes
+2 cups frozen 
+peas, thawed
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, and cumin 
+and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the tofu, peas, and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 235; T otal fat: 12g; Saturated fat: 2g; 
+Sodium: 89mg; Carbohydrates: 21g; Sugar: 8g; Fiber: 6g; 
+Protein: 13g;  Calcium: 159mg62 INSTANT POT VEGAN INDIAN COOKBOOKAchari Gobi (Spiced Cauliflower)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 39 minutes/space.enServes 4
+/T_h  is mildly spiced, quick, and simple stir-fry with cauli/f_l  ower /f_l  orets is a popular dish 
+served in many restaurants. It pairs perfectly well with rice or rotis and a lentil like Dal 
+Tadka (page 21) on the side.
+2 tablespoons neutral 
+cooking oil
+1 tablespoon Paanch 
+Phoron (page 112)
+1 large onion, 
+/f_i  nely chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon 
+ground coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon 
+amchur powder
+Salt
+1 cauli/f_l  ower head, cut into 
+bite-size /f_l  orets
+/one.numr⁄/two.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and paanch phoron in the Instant Pot.
+2. Once the paanch phoron starts to sizzle, add the 
+onion, garlic, and ginger and cook for 3 to 4 minutes, 
+until the onion begins to brown. Keep stirring occa-
+sionally to avoid burning.
+3. Add the tomato paste, coriander, red chili, and 
+amchur powder and season with salt. Mix well.
+4. Slowly add the cauli/f_l  ower and water and mix well 
+with the spices.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+INGREDIENT TIP: You can also use frozen cauli/f_l  ower 
+/f_l  orets if you don’t have any fresh.
+Per serving: Calories: 138; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 53mg; Carbohydrates: 15g; Sugar: 6g; Fiber: 4g; 
+Protein: 4g;  Calcium: 58mg63 CURRIESAlu Baingan 
+(Eggplant and Potato Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 40 minutes/space.enServes 4
+/T_h  is is a classic North Indian recipe made by sautéing eggplants and potatoes with 
+tomatoes and a blend of spices. Serve it with some fresh warm naan and Chana Dal 
+Masala (page 22).
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, 
+/f_i  nely chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon tomato paste
+1 tablespoon 
+ground coriander
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium potatoes, cut 
+into bite-size pieces
+3 Japanese or Chinese 
+eggplants, cut into 
+1-inch pieces
+2 medium tomatoes, cut 
+into wedges
+1 cup water
+Fresh cilantro, /f_i  nely 
+chopped, for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, turmeric, red chili, 
+and garam masala and season with salt. Mix well.
+4. Add the potatoes and eggplants and cook for 1 to 
+2 minutes to mix well with the spices.
+5. Add the tomatoes and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 268; T otal fat: 7g; Saturated fat: 1g; 
+Sodium: 26mg; Carbohydrates: 44g; Sugar: 16g; Fiber: 12g; 
+Protein: 7g;  Calcium: 37mg64 INSTANT POT VEGAN INDIAN COOKBOOKGajar Gobi Matar 
+(Carrots, Cauliflower, and Peas)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 39 minutes/space.enServes 4
+Literally translating to “carrots, cauli/f_l  ower, peas,” this dish is a classic winter specialty 
+made in many Indian homes and served with a side of fresh rotis and some dal. Y ou 
+can also use a mix of frozen peas and carrots if you’re short on time.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon 
+amchur powder
+Salt
+4 cups cauli/f_l  ower /f_l  orets
+2 cups chopped carrots
+2 cups frozen 
+peas, thawed
+1 cup water
+Fresh cilantro, /f_i  nely 
+chopped, for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and cook for 2 to 3 minutes, until the onion begins to 
+brown. Keep stirring occasionally to avoid burning.
+3. Add the tomato paste, coriander, turmeric, red chili, 
+and amchur powder and season with salt. Mix well.
+4. Add the cauli/f_l  ower, carrots, and peas and cook for 
+1 to 2 minutes to mix well with the spices. Add the 
+water and stir well to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 184; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 154mg; Carbohydrates: 25g; Sugar: 10g; Fiber: 8g; 
+Protein: 7g;  Calcium: 78mg65 CURRIESBaingan Bharta 
+(Spiced Eggplant Mash)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Quick/space.enTotal time: 31 minutes/space.enServes 4
+/T_h  is is a classic Punjabi favorite traditionally made by roasting whole eggplants and 
+sautéing them in a blend of tomatoes and spices. /T_h  is dish is best enjoyed with rotis 
+and Dal Tadka (page 21) on the side.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced ginger
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+2 large eggplants, cut into 
+bite-size cubes
+/one.numr⁄/two.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the red chili and garam masala and season with 
+salt. Mix well.
+4. Slowly stir in the tomatoes and cook for 3 to 
+4 minutes, until they start to pulp and blend in with 
+the spices.
+5. Add the eggplants and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , quick release the pressure. 
+Carefully open the lid and slowly mash the eggplant. 
+Give it a quick stir to mix everything well.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 178; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 13mg; Carbohydrates: 27g; Sugar: 15g; Fiber: 12g; 
+Protein: 5g;  Calcium: 51mg66 INSTANT POT VEGAN INDIAN COOKBOOKMushroom Matar 
+(Mushroom and Pea Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 42 minutes/space.enServes 4
+Fresh mushrooms and peas are cooked in a rich spice blend with sautéed onions and 
+tomatoes in mushroom matar. I use cremini mushrooms here, but feel free to use other 
+mushrooms you might have on hand, such as button or shiitake.
+2 tablespoons neutral 
+cooking oil
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+18 to 20 cremini 
+mushrooms, quartered
+2 cups frozen 
+peas, thawed
+1 cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the onion, garlic, 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the tomato paste, coriander, red chili, turmeric, 
+and garam masala and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the mushrooms, peas, and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 171; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 85mg; Carbohydrates: 20g; Sugar: 9g; Fiber: 6g; 
+Protein: 8g;  Calcium: 41mg67 CURRIESVegetable Korma
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 41 minutes/space.enServes 4
+Vegetable korma is a decadent mixed vegetable curry simmered in a fragrantly spiced 
+coconut-based sauce. Serve it with Perfect Basmati Rice (page 42) and Achari Paneer 
+Tikka (page 80).
+2 tablespoons neutral 
+cooking oil
+1 cinnamon stick
+3 or 4 whole green 
+cardamom pods
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+2 cups chopped carrots
+2 cups chopped potatoes
+2 cups chopped 
+cauli/f_l  ower /f_l  orets
+2 cups chopped 
+green beans
+2 cups frozen peas, thawed
+1 cup full-fat coconut milk
+/one.numr⁄/two.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil, cinnamon stick, and cardamom pods in the 
+Instant Pot.
+2. Once the oil starts to warm up, add the onion, garlic, 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Add the carrots, potatoes, cauli/f_l  ower, green beans, 
+and peas and cook for 1 to 2 minutes, until they 
+blend in with the spices.
+5. Add the coconut milk and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 346; T otal fat: 18g; Saturated fat: 10g; 
+Sodium: 156mg; Carbohydrates: 42g; Sugar: 14g; Fiber: 10g; 
+Protein: 9g;  Calcium: 92mg68 INSTANT POT VEGAN INDIAN COOKBOOKBharwan Baingan 
+(Stuffed Eggplants)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 1 minute/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+3 minutes/space.enPressure release: Natural, 10 to 12 minutes/space.enTotal time: 36 minutes/space.enServes 4
+/T_h  ese baby eggplants stuﬀ  ed with a mix of spices and cooked until tender and /f_l  avorful 
+are a favorite of mine. Serve this with a /f_l  avored rice dish like Peas Pulao (page 43) and 
+Kali Dal (page 23).
+2 tablespoons ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+/one.numr⁄/two.dnom teaspoon garlic powder
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+6 to 8 small round 
+baby eggplants
+2 tablespoons neutral 
+cooking oil
+/one.numr⁄ /four.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. In a small bowl, mix the coriander, red chili, garam 
+masala, garlic powder, and turmeric and season with 
+salt. Set aside.
+2. With a knife, start at the round end and make two 
+cuts in a cross halfway through each eggplant, being 
+careful not to cut them all the way through. You 
+want to be able to /f_i  ll them with the spice mix while 
+preserving their shape.
+3. Carefully stuﬀ   each eggplant with the spice mix and 
+set aside.
+4. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+5. Once the oil starts to warm up, carefully place the 
+stuﬀ  ed eggplants in the Instant Pot. Sprinkle any 
+leftover spice mix on top. Give it a quick stir and add 
+the water. Mix again.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 103; T otal fat: 7g; Saturated fat: 1g; Sodium: 3mg; 
+Carbohydrates: 9g; Sugar: 3g; Fiber: 5g; Protein: 2g;  Calcium: 43mg69 CURRIESBHINDI DO PIAZA 
+(Okra with Onions)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Quick/space.enTotal time: 29 minutes/space.enServes 4
+/T_h  is tangy stir-fried okra with onions and a mix of spices is a fragrant, delicious dish. 
+/T_h  is recipe is best paired with a lentil like Mixed Dal (page 26) or Khatti-Meethi 
+Dal (page 38) and rice or rotis on the side. Add in a side salad or chutney to complete 
+the meal.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, thinly sliced
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon 
+amchur powder
+Salt
+25 to 30 okra, cut into 
+1-inch pieces
+1 medium tomato, 
+/f_i  nely chopped
+/one.numr⁄ /four.dnom cup water1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and cook for 1 to 2 minutes, until the onion begins to 
+brown. Keep stirring occasionally to avoid burning.
+3. Add the coriander, red chili, turmeric, and amchur 
+powder and season with salt to taste. Mix well.
+4. Slowly stir in the okra and tomato and cook for 3 to 
+4 minutes, until they mix in well with the spices.
+5. Add the water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , quick release the pressure.
+8. Serve warm.
+INGREDIENT TIP: When chopping the okra, make sure 
+that you wipe them dry /f_i  rst to prevent them from 
+getting slimy.
+Per serving: Calories: 111; T otal fat: 7g; Saturated fat: 1g;  
+Sodium: 10mg; Carbohydrates: 11g; Sugar: 4g; Fiber: 4g; 
+Protein: 2g;  Calcium: 84mg70 INSTANT POT VEGAN INDIAN COOKBOOKAlu Bhaji (Potato Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Quick/space.enTotal time: 31 minutes/space.enServes 4
+/T_h  is traditional potato curry is usually served with puris as a weekend brunch meal. 
+Y ou can also serve it with naan and Instant Chile Achaar (page 105) for a quick lunch 
+or dinner.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+4 medium potatoes, cut 
+into bite-size cubes
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, turmeric, 
+and garam masala and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the potatoes and water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , quick release the pressure.
+8. Carefully open the lid and roughly mash the potatoes 
+to give the curry a chunky texture. Give it a quick stir 
+to mix everything well.
+9. Garnish with cilantro and serve warm.
+Per serving: Calories: 252; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 46mg; Carbohydrates: 43g; Sugar: 7g; Fiber: 7g; 
+Protein: 5g;  Calcium: 48mg71 CURRIESKadhai Mushroom 
+(Mushrooms and Peppers)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 minutes
+Total time: 38 minutes/space.enServes 4
+Fresh cremini mushrooms are stir-fried with a mix of peppers and onions and added 
+to a tangy tomato-based sauce. “Kadhai” refers to the Indian version of the Chinese 
+wok, the cooking vessel traditionally used to make this dish. Here the Instant Pot does 
+all the heavy lifting, and the recipe comes together in a snap.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, thinly sliced
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+18 to 20 cremini 
+mushrooms, quartered
+1 large tomato, 
+thinly sliced
+1 green bell pepper, 
+thinly sliced
+/one.numr⁄ /four.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 1 to 2 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, and 
+ turmeric and season with salt. Mix well.
+4. Add the mushrooms and cook for 3 to 4 minutes, 
+until they start to lightly brown along the edges and 
+blend in with the spices.
+5. Slowly stir in the tomato and bell pepper, add the 
+water, and mix well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 124; T otal fat: 8g; Saturated fat: 1g; 
+Sodium: 14mg; Carbohydrates: 12g; Sugar: 6g; Fiber: 3g; 
+Protein: 4g;  Calcium: 30mg72 INSTANT POT VEGAN INDIAN COOKBOOKKaddu ki Sabzi 
+(Spiced Butternut Squash)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 10 minutes
+Total time: 37 minutes/space.enServes 4
+/T_h  is is a sweet and sour Punjabi-style pumpkin curry dish, made here with  butternut 
+squash. /T_h  e amchur powder gives it a tanginess, but if you don’t have it on hand, use 
+freshly squeezed lime juice instead. Serve it with fresh parathas.
+2 tablespoons neutral 
+cooking oil
+4 cups fresh cubed 
+ butternut squash 
+(or frozen and thawed)
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+/one.numr⁄ /four.dnom teaspoon 
+amchur powder
+Salt
+1 cup water1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the butternut 
+squash and ginger and cook for 3 to 4 minutes, 
+ stirring occasionally to avoid burning.
+3. Add the coriander, red chili, turmeric, and amchur 
+powder and season with salt. Mix well.
+4. Add the water and stir well to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Roughly mash the  butternut squash to give the 
+curry a chunky texture. Give it a quick stir to mix 
+everything well.
+8. Serve warm.
+VARIATION: You can use sweet potatoes instead of 
+ butternut squash in this recipe.
+Per serving: Calories: 150; T otal fat: 7g; Saturated fat: 1g; 
+Sodium: 9mg; Carbohydrates: 23g; Sugar: 4g; Fiber: 7g; 
+Protein: 2g;  Calcium: 90mg73 CURRIESCorn Masala Curry
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 minutes
+Total time: 40 minutes/space.enServes 4
+/T_h  is is a quick and simple dish to make. A spicy tomato curry makes up the base, and 
+frozen corn kernels add a touch of sweetness and color. Try this with fresh corn when 
+it is readily available during the summer months.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+tomato paste
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon 
+ground cumin
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+4 cups frozen corn 
+kernels, thawed
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the tomato paste, coriander, red chili, cumin, 
+and garam masala and season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the corn and water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 225; T otal fat: 8g; Saturated fat: 1g;  
+Sodium: 16mg; Carbohydrates: 38g; Sugar: 8g; Fiber: 5g; 
+Protein: 6g;  Calcium: 37mgGOBI TIKKA MASALA , page 8175CHAPTER FIVE
+Favorites 
+Reimagined
+Dal Makhani (Creamy Black Lentils) 76
+Paneer Burji (Spiced Crumbled Tofu) 78
+Keema Matar (Ground “Meat” and Peas) 79
+Achari Paneer Tikka 80
+Gobi Tikka Masala (Spiced Cauliﬂ  ower Curry) 81
+Saag Paneer (Spinach and Tofu) 82
+Keema Pulao (Ground “Meat” and Rice) 83
+Paneer Biryani 84
+Methi Malai (“Chicken” Curry) 85
+Alu Gosht (“Meat” and Potato Curry) 86INSTANT POT VEGAN INDIAN COOKBOOK 76Dal Makhani 
+(Creamy Black Lentils)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 25 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 1 hour, 5 minutes/space.enServes 4
+Dal makhani, popular in North Indian cuisine, is a restaurant favorite made from 
+black lentils (urad dal) simmered down to a smooth buttery consistency. Traditionally, 
+it’s made with dairy, but plant-based milks work just as well to create a creamy dal.
+2 tablespoons neutral 
+cooking oil
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon tomato paste
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+2 cups water, plus more 
+as needed
+1 cup dried whole black 
+lentils, rinsed
+/one.numr⁄ /four.dnom cup canned red 
+kidney beans, drained 
+and rinsed
+2 tablespoons plant-based 
+milk of choice
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the onion, garlic, 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the tomato paste, coriander, and red chili and 
+season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the water, lentils, and kidney beans and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+25 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. 
+8. Carefully open the lid and set the Instant Pot back to 
+Sauté mode.77 FAVORITES REIMAGINED9. Slowly stir in the plant-based milk and let it come 
+to a boil. You can also add more water at this point 
+depending on the consistency you prefer. Give it a 
+quick stir to mix everything well.
+10. Garnish with cilantro and serve warm.
+Per serving: Calories: 252; T otal fat: 8g; Saturated fat: 1g;  
+Sodium: 36mg; Carbohydrates: 34g; Sugar: 5g; Fiber: 12g; 
+Protein: 14g;  Calcium: 56mgINSTANT POT VEGAN INDIAN COOKBOOK 78Paneer Burji 
+(Spiced Crumbled Tofu)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 40 minutes/space.enServes 4
+/T_h  is is a vegan version of the spicy Indian dish traditionally made with scrambled 
+eggs. We get the same crumbly, scrambled texture here with extra-/f_i  rm tofu, which 
+picks up the spices nicely. /T_h  is is best served with toast for a hearty brunch.
+2 tablespoons neutral 
+cooking oil
+1 medium onion, 
+thinly sliced
+1 tablespoon 
+ground coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 large tomato, /f_i  nely 
+chopped
+16 ounces extra-/f_i  rm 
+tofu, drained, pressed, 
+and grated
+/one.numr⁄/two.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the onion and 
+cook for 1 to 2 minutes, until the onion begins to 
+brown. Keep stirring occasionally to avoid burning.
+3. Add the coriander, red chili, and turmeric and season 
+with salt. Mix well.
+4. Slowly add the tomato and cook for 3 to 4 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the tofu and water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+INGREDIENT TIP: Make sure you use only extra-/f_i  rm tofu 
+to get the desired crumbly texture.
+Per serving: Calories: 202; T otal fat: 13g; Saturated fat: 2g;  
+Sodium: 11mg; Carbohydrates: 9g; Sugar: 2g; Fiber: 2g; 
+Protein: 13g;  Calcium: 191mg79 FAVORITES REIMAGINEDKeema Matar 
+(Ground “Meat” and Peas)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 5 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 45 minutes/space.enServes 4
+/T_h  is mouthwatering classic is traditionally made with ground meat and peas. Here we 
+use textured soy protein to get a meatier texture, and cook it with a blend of spices and 
+tomatoes. /T_h  is dish is usually served with parathas, /f_l  aky, layered /f_l  atbreads that are a 
+staple in many Indian homes.
+2 tablespoons neutral 
+cooking oil
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt
+1 large tomato, /f_i  nely 
+chopped
+2 cups textured soy 
+protein
+1 cup frozen peas, thawed
+1 cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the onion, garlic, 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the coriander, red chili, garam masala, and 
+ turmeric and season with salt. Mix well.
+4. Slowly add the tomato and cook for 3 to 4 minutes, 
+until it starts to pulp and blend in with the spices.
+5. Add the soy protein and peas and cook for 1 to 
+2 minutes, mixing everything well.
+6. Add the water and stir well to combine.
+7. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+5 minutes on high pressure.
+8. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+9. Garnish with cilantro and serve warm.
+Per serving: Calories: 319; T otal fat: 11g; Saturated fat: 1g;  
+Sodium: 41mg; Carbohydrates: 24g; Sugar: 8g; Fiber: 10g; 
+Protein: 20g;  Calcium: 28mg80 INSTANT POT VEGAN INDIAN COOKBOOKAchari Paneer Tikka
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enSauté time: 3 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Quick/space.enTotal time: 25 minutes/space.enServes 4
+/T_h  is is a vegan version of one of the most popular Indian restaurant appetizers, made 
+with cubes of extra-/f_i  rm tofu. /T_h  e tofu here is a great substitute for paneer since it is 
+very similar in texture and won’t overpower the recipe with its own /f_l  avor.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon Paanch 
+Phoron (page 112)
+10 /one.numr⁄/two.dnom ounces extra-/f_i  rm 
+tofu, cut into 
+bite-size cubes
+/one.numr⁄/two.dnom cup vegan yogurt 
+of choice
+2 tablespoons 
+tomato paste
+1 tablespoon T andoori 
+Masala (page 111)
+1 tablespoon ground 
+coriander
+Salt
+/one.numr⁄ /four.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and paanch phoron in the Instant Pot.
+2. Once the paanch phoron starts to sizzle, add the 
+tofu and cook for 1 to 2 minutes, until it begins to 
+brown along the edges. Keep stirring occasionally to 
+avoid burning.
+3. Add the yogurt, tomato paste, tandoori masala, and 
+coriander and season with salt. Mix well to coat the 
+tofu completely.
+4. Add the water and stir well to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+6. When the timer goes oﬀ  , quick release the pressure. 
+Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+Per serving: Calories: 175; T otal fat: 13g; Saturated fat: 2g;  
+Sodium: 107mg; Carbohydrates: 6g; Sugar: 1g; Fiber: 2g; 
+Protein: 9g;  Calcium: 133mg81 FAVORITES REIMAGINEDGobi Tikka Masala 
+(Spiced Cauliflower Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 4 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 44 minutes/space.enServes 4
+/T_h  is is a vegan variation of the restaurant favorite chicken tikka masala, made with 
+fresh cauli/f_l  ower /f_l  orets. I love using cauli/f_l  ower here since it keeps its shape after 
+cooking and absorbs the /f_l  avor of the spices really well.
+2 tablespoons neutral 
+cooking oil
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+/one.numr⁄/two.dnom cup vegan yogurt 
+of choice
+2 tablespoons 
+tomato paste
+1 tablespoon T andoori 
+Masala (page 111)
+1 tablespoon ground 
+coriander
+Salt
+1 cauli/f_l  ower head, cut into 
+bite-size /f_l  orets
+1 cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the onion, garlic, 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the yogurt, tomato paste, tandoori masala, and 
+coriander and season with salt. Mix well.
+4. Slowly add the cauli/f_l  ower and cook for 3 to 
+4 minutes, stirring occasionally so that the /f_l  orets are 
+well coated with the spices and yogurt.
+5. Add the water and stir well to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+4 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 152; T otal fat: 10g; Saturated fat: 1g;  
+Sodium: 148mg; Carbohydrates: 15g; Sugar: 6g; Fiber: 4g; 
+Protein: 5g;  Calcium: 57mg82 INSTANT POT VEGAN INDIAN COOKBOOKSaag Paneer (Spinach and Tofu)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 4 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 44 minutes/space.enServes 4
+Saag paneer is a classic vegetarian Indian dish. As the name implies, it’s made with 
+paneer, a non-melting soft cheese sometimes referred to as Indian cottage cheese. 
+/T_h  is recipe is made vegan by using lightly sautéed cubes of tofu in a rich blended 
+spinach sauce.
+2 /one.numr⁄/two.dnom cups frozen 
+spinach, thawed
+1 cup water, divided
+2 tablespoons neutral 
+cooking oil
+1 medium onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon tomato paste
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+1 large tomato, 
+/f_i  nely chopped
+10 /one.numr⁄/two.dnom ounces extra-/f_i  rm 
+tofu, drained, pressed, 
+and cut into 
+bite-size cubes
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. In a blender or food processor, blend the spinach 
+with ½    cup of water into a smooth puree.
+2. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+3. Once the oil starts to warm up, add the onion, garlic, 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+4. Add the tomato paste, coriander, red chili, and garam 
+masala and season with salt. Mix well.
+5. Add the tomato and cook for 3 to 4 minutes, until it 
+starts to pulp and blend in with the spices.
+6. Slowly add the spinach puree and remaining ½    cup 
+of water and stir well to combine. Add the tofu and 
+mix again.
+7. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+4 minutes on high pressure.
+8. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+9. Garnish with cilantro and serve warm.
+Per serving: Calories: 199; T otal fat: 12g; Saturated fat: 1g;  
+Sodium: 84mg; Carbohydrates: 13g; Sugar: 4g; Fiber: 5g; 
+Protein: 13g;  Calcium: 258mg83 FAVORITES REIMAGINEDKeema Pulao 
+(Ground “Meat” and Rice)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 40 minutes/space.enServes 4
+/T_h  is is a quick and simple pulao. Traditionally, it’s layered with ground meat and peas 
+and seasoned with fragrant whole spices. /T_h  is version includes soy protein for a similar 
+texture to the original dish.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 cinnamon stick
+3 or 4 whole green 
+cardamom pods
+1 medium onion, 
+thinly sliced
+1 teaspoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+Salt
+1 large tomato, /f_i  nely 
+chopped
+4 cups water
+2 cups basmati 
+rice, rinsed
+1 cup textured soy protein
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil, cumin seeds, cinnamon stick, and cardamom 
+pods in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and cook for 1 to 2 minutes, until the onion begins to 
+brown. Keep stirring occasionally to avoid burning.
+3. Add the coriander and red chili and season with salt. 
+Mix well.
+4. Add the tomato and cook for 2 to 3 minutes, until it 
+starts to pulp and blend in with the spices.
+5. Add the water, rice, and soy protein and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 503; T otal fat: 10g; Saturated fat: 1g;  
+Sodium: 5mg; Carbohydrates: 83g; Sugar: 4g; Fiber: 5g; 
+Protein: 16g;  Calcium: 20mg84 INSTANT POT VEGAN INDIAN COOKBOOKPaneer Biryani
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 4 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 39 minutes/space.enServes 4
+Biryani is a rice-based dish, traditionally made by layering rice and marinated meat 
+or vegetables, and then letting them slow cook until tender and aromatic. /T_h  is vegan 
+version of the restaurant classic is made with marinated tofu.
+2 tablespoons neutral 
+cooking oil
+1 teaspoon cumin seeds
+1 medium onion, 
+thinly sliced
+10 /one.numr⁄/two.dnom ounces extra-/f_i  rm 
+tofu, cut into 
+bite-size cubes
+1 teaspoon T andoori 
+Masala (page 111)
+1 teaspoon ground 
+coriander
+Salt
+3 cups water
+2 cups basmati 
+rice, rinsed
+1 large tomato, 
+thinly sliced
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil and cumin seeds in the Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion 
+and cook for 1 to 2 minutes, until the onion begins to 
+brown. Keep stirring occasionally to avoid burning.
+3. Add the tofu, tandoori masala, and coriander and 
+season with salt. Cook for 1 to 2 minutes to coat the 
+tofu with the spices.
+4. Add the water, rice, and tomato, and stir well 
+to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Garnish with cilantro and serve warm.
+INGREDIENT TIP: Make sure you use only extra-/f_i  rm tofu 
+to avoid the tofu breaking and blending in with the rice.
+Per serving: Calories: 481; T otal fat: 12g; Saturated fat: 1g; 
+Sodium: 41mg; Carbohydrates: 80g; Sugar: 2g; Fiber: 2g; 
+Protein: 15g;  Calcium: 131mg85 FAVORITES REIMAGINEDMethi Malai (“Chicken” Curry)
+GLUTEN/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 6 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 41 minutes/space.enServes 4
+Adapted from a very popular chicken recipe, this dish uses extra-/f_i  rm tofu to up the 
+protein. If you don’t want to use tofu, you can use chickpeas and potatoes in its place. 
+It also uses kasoori methi, or fenugreek leaves, to add /f_l  avor and is simmered in a 
+coconut-based curry for a nice, creamy texture.
+2 tablespoons neutral 
+cooking oil
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+2 tablespoons 
+kasoori methi
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+10 /one.numr⁄/two.dnom ounces extra-/f_i  rm 
+tofu, cut into 
+bite-size cubes
+1 cup full-fat coconut milk
+/one.numr⁄/two.dnom cup water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the onion, garlic 
+and ginger and cook for 3 to 4 minutes, until the 
+onion begins to brown. Keep stirring occasionally to 
+avoid burning.
+3. Add the kasoori methi, coriander, red chili, and 
+garam masala and season with salt. Mix well.
+4. Add the tofu and cook for 1 to 2 minutes, until they 
+are well coated with the spices.
+5. Add the coconut milk and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 270; T otal fat: 22g; Saturated fat: 11g; 
+Sodium: 15mg; Carbohydrates: 11g; Sugar: 4g; Fiber: 2g; 
+Protein: 10g;  Calcium: 131mg86 INSTANT POT VEGAN INDIAN COOKBOOKAlu Gosht 
+(“Meat” and Potato Curry)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 8 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 3 minutes/space.enPressure release: Natural, 10 to 12 minutes
+Total time: 43 minutes/space.enServes 4
+/T_h  is is a vegan version of the classic meat and potato curry using textured soy protein. 
+It’s a very popular recipe served in many restaurants and is usually made with lamb or 
+beef. /T_h  e textured soy protein has a similar texture to the original dish and soaks up all 
+the /f_l  avor of the curry.
+2 tablespoons neutral 
+cooking oil
+1 cinnamon stick
+1 teaspoon cumin seeds
+1 large onion, /f_i  nely 
+chopped
+1 tablespoon /f_i  nely 
+minced garlic
+1 tablespoon /f_i  nely 
+minced ginger
+1 tablespoon ground 
+coriander
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄/two.dnom teaspoon Garam 
+Masala (page 110)
+Salt
+2 medium tomatoes, 
+/f_i  nely chopped
+2 medium potatoes, 
+quartered
+3 cups textured 
+soy protein
+2 cups water
+Fresh cilantro leaves, 
+/f_i  nely chopped, 
+for garnish1. Select Sauté mode, adjust the heat to high, and 
+put the oil, cinnamon stick, and cumin seeds in the 
+Instant Pot.
+2. Once the cumin seeds start to sizzle, add the onion, 
+garlic, and ginger and cook for 3 to 4 minutes, until 
+the onion begins to brown. Keep stirring occasionally 
+to avoid burning.
+3. Add the coriander, red chili, and garam masala and 
+season with salt. Mix well.
+4. Slowly add the tomatoes and cook for 3 to 4 minutes, 
+until they start to pulp and blend in with the spices.
+5. Add the potatoes, soy protein, and water and stir well 
+to combine.
+6. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+3 minutes on high pressure.
+7. When the timer goes oﬀ  , let the pressure release 
+naturally for 10 to 12 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+8. Garnish with cilantro and serve warm.
+Per serving: Calories: 471; T otal fat: 13g; Saturated fat: 1g; 
+Sodium: 24mg; Carbohydrates: 43g; Sugar: 10g; Fiber: 15g; 
+Protein: 29g; Calcium: 36mgMANGO SABUDANA KHEER , page 9089CHAPTER SIX
+Desserts
+Mango Sabudana Kheer (Mango Tapioca Pudding) 90
+Sooji Halwa (Semolina Halwa) 91
+Moong Dal Halwa (Y ellow Moong Halwa) 92
+Mango Kheer (Mango Rice Pudding) 93
+Saﬀ  ron Kheer (Saﬀ  ron Rice Pudding) 94
+Gajar Halwa (Carrot Halwa) 95
+Green Moong Kheer (Green Moong Pudding) 96
+Besan Barﬁ   (Indian-Style Fudge) 97
+Coconut Ladoos (Coconut Fudge) 98
+Khajur ki Mithai (Date Squares) 9990 INSTANT POT VEGAN INDIAN COOKBOOKMango Sabudana Kheer 
+(Mango Tapioca Pudding)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook: 5 minutes, then 2 minutes
+Pressure release: Quick, then Natural for 10 minutes/space.enTotal time: 32 minutes/space.enServes 6
+/T_h  is mildly sweet pudding is made with mango, tapioca pearls, and coconut milk. 
+Y ou should be able to /f_i  nd the white tapioca pearls, called sabudana, at any Indian 
+grocery store. Nowadays, they’re also easily available at most regular grocery 
+stores—usually in the international aisle.
+2 cups water
+1 cup sabudana, rinsed
+1 /one.numr⁄/two.dnom cups full-fat 
+coconut milk
+/one.numr⁄/two.dnom cup sugar
+1 teaspoon ground 
+cardamom
+2 cups /f_i  nely chopped 
+fresh mango1. Put the water and sabudana in the Instant Pot. Lock 
+the lid, close the steam valve, and set the timer for 
+5 minutes on high pressure. When the timer goes oﬀ  , 
+quick release the pressure.
+2. Open the lid carefully and slowly stir in the coconut 
+milk, sugar, and cardamom to mix well.
+3. Lock the lid, close the steam valve, and set the timer 
+for 2 minutes on high pressure.
+4. When the timer goes oﬀ  , let the pressure release 
+naturally for about 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+5. Top with the mango right before serving.
+VARIATION:  /T_h  is recipe can be served warm or cold 
+depending on your preference. You can also add a bit 
+of chopped nuts and/or toasted coconut /f_l  akes with the 
+mango for an added crunch.
+Per serving: Calories: 291; T otal fat: 11g; Saturated fat: 9g; 
+Sodium: 7mg; Carbohydrates: 50g; Sugar: 27g; Fiber: 2g; 
+Protein: 1g;  Calcium: 15mg91 DESSERTSSooji Halwa (Semolina Halwa)
+SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+2 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 32 minutes/space.enServes 6
+Halwa is an Indian pudding, generally creamy in texture and made from a variety of 
+grains, fruits, or vegetables. /T_h  is is a traditional version of the homestyle pudding and 
+is made using semolina.
+/one.numr⁄ /four.dnom cup neutral cooking oil
+1 cup semolina
+/one.numr⁄/two.dnom cup sugar
+1 teaspoon 
+ground cardamom
+3 cups water
+/one.numr⁄/two.dnom cup chopped 
+mixed nuts (such as 
+cashews, almonds, 
+and pistachios)1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the semolina and 
+cook for 3 to 4 minutes, stirring occasionally to keep 
+it from burning.
+3. Slowly stir in the sugar and cardamom and mix well.
+4. Add the water and stir well to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for about 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Top with the mixed nuts and serve warm.
+PREP TIP:  /T_h  e semolina should turn a pale golden color 
+once it has been toasted properly. Be careful not to let it 
+burn by stirring occasionally to prevent it from sticking to 
+the bottom of the pot.
+VARIATION:  A popular variation of this recipe in many 
+Indian homes involves substituting semolina with Indian 
+whole-wheat /f_l  our, also known as atta. 
+Per serving: Calories: 305; T otal fat: 14g; Saturated fat: 2g; 
+Sodium: 2mg; Carbohydrates: 40g; Sugar: 17g; Fiber: 2g; 
+Protein: 6g;  Calcium: 10mg92 INSTANT POT VEGAN INDIAN COOKBOOKMoong Dal Halwa 
+(Yellow Moong Halwa)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook:
+5 minutes/space.enPressure release: Natural, 10 minutes/space.enTotal time: 35 minutes/space.enServes 6
+In this version of halwa, yellow moong lentils are used. Y ellow moong lentils are the 
+split version of green moong lentils. (See page 6 for details.) Halwa is slightly denser 
+than kheer and has a creamy texture very similar to oatmeal or porridge.
+/one.numr⁄ /four.dnom cup neutral cooking oil
+1 cup yellow moong 
+lentils, rinsed
+/one.numr⁄/two.dnom cup sugar
+1 teaspoon ground 
+cardamom
+3 cups water
+/one.numr⁄/two.dnom cup chopped 
+mixed nuts (such as 
+cashews, almonds, 
+and pistachios)1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the lentils 
+and cook for 5 minutes, stirring occasionally to 
+avoid burning.
+3. Slowly stir in the sugar and cardamom and mix well. 
+Add the water and stir well to combine.
+4. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+5 minutes on high pressure.
+5. When the timer goes oﬀ  , let the pressure release 
+naturally for about 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+6. Top with the mixed nuts and serve warm.
+PREP TIP:  /T_h  e moong lentils should turn a darker golden 
+hue once they have been toasted properly. Stir regularly 
+to prevent the lentils from burning and sticking to the 
+bottom of the pot.
+Per serving: Calories: 325; T otal fat: 14g; Saturated fat: 2g; 
+Sodium: 12mg; Carbohydrates: 41g; Sugar: 18g; Fiber: 4g; 
+Protein: 11g;  Calcium: 19mg93 DESSERTSMango Kheer 
+(Mango Rice Pudding)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enPressure build: 14 minutes total/space.enPressure cook: 5 minutes, then 
+2 minutes/space.enPressure release: Quick, then Natural, 10 minutes/space.enTotal time: 36 minutes/space.enServes 6
+Mango kheer is a colorful, sweet, and slightly tangy rice pudding made with coconut 
+milk and /f_l  avored with mango. Although using fresh mango will always give you the 
+best result, you can opt for thawed frozen mango if you need to.
+4 cups water
+1 cup basmati rice, rinsed
+1 /one.numr⁄/two.dnom cups full-fat 
+coconut milk
+/one.numr⁄/two.dnom cup sugar
+1 teaspoon ground 
+cardamom
+2 cups /f_i  nely chopped 
+fresh mango (or frozen 
+and thawed)1. Put the water and rice in the Instant Pot. Lock 
+the lid, close the steam valve, and set the timer for 
+5 minutes on high pressure.
+2. When the timer goes oﬀ  , quick release the pressure.
+3. Open the lid carefully and slowly stir in the coconut 
+milk, sugar, and cardamom to mix well.
+4. Lock the lid, close the steam valve, and set the 
+timer for 2 minutes on high pressure. When the 
+timer goes oﬀ  , let the pressure release naturally for 
+about 10 minutes, then quick release any remaining 
+ pressure. Carefully remove the lid.
+5. Top with the mango right before serving.
+VARIATION:  Serve this either warm or cold depending on 
+your preference. You can jazz it up by topping it with some 
+chopped nuts and/or toasted coconut /f_l  akes.
+Per serving: Calories: 307; T otal fat: 11g; Saturated fat: 9g; 
+Sodium: 7mg; Carbohydrates: 52g; Sugar: 26g; Fiber: 1g; 
+Protein: 3g;  Calcium: 10mg94 INSTANT POT VEGAN INDIAN COOKBOOKSaffron Kheer 
+(Saffron Rice Pudding)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enPressure build: 14 minutes total/space.enPressure cook: 5 minutes, then 
+2 minutes/space.enPressure release: Quick, then Natural, 10 minutes/space.enTotal time: 36 minutes/space.enServes 6
+/T_h  is rice pudding is made with coconut milk and /f_l  avored with saﬀ  ron. Kheer is 
+ usually served on special occasions like festivals or weddings.
+4 cups water
+1 cup basmati rice, rinsed
+1 /one.numr⁄/two.dnom cups full-fat 
+coconut milk
+/one.numr⁄/two.dnom cup sugar
+1 teaspoon ground 
+cardamom
+/one.numr⁄ /four.dnom teaspoon saﬀ  ron
+/one.numr⁄/two.dnom cup chopped pistachios1. Put the water and rice in the Instant Pot. Lock 
+the lid, close the steam valve, and set the timer for 
+5 minutes on high pressure.
+2. When the timer goes oﬀ  , quick release the pressure.
+3. Open the lid carefully and slowly stir in the coconut 
+milk, sugar, cardamom, and saﬀ  ron. Mix well.
+4. Lock the lid, close the steam valve, and set the 
+timer for 2 minutes on high pressure. When the 
+timer goes oﬀ  , let the pressure release naturally for 
+about 10 minutes, then quick release any remaining 
+ pressure. Carefully remove the lid.
+5. Top with the pistachios right before serving.
+VARIATION: /T_h  is recipe can be served warm or cold 
+depending on your preference. You can also add in 
+chopped cashews instead of pistachios.
+Per serving: Calories: 331; T otal fat: 16g; Saturated fat: 10g; 
+Sodium: 6mg; Carbohydrates: 47g; Sugar: 20g; Fiber: 2g; 
+Protein: 5g;  Calcium: 14mg95 DESSERTSGajar Halwa (Carrot Halwa)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 10 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 2 minutes/space.enPressure release: Natural, 10 minutes
+Total time: 37 minutes/space.enServes 6
+/T_h  is traditional Indian homestyle pudding is made using freshly grated carrots. Since 
+carrots are abundant in the winter season in India, this recipe tends to be enjoyed 
+during the cold winter months.
+/one.numr⁄ /four.dnom cup neutral cooking oil
+4 cups grated carrots
+/one.numr⁄/two.dnom cup sugar
+1 teaspoon ground 
+cardamom
+/one.numr⁄/two.dnom cup /f_i  nely ground 
+almonds
+/one.numr⁄ /four.dnom cup thinly sliced 
+almonds1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil starts to warm up, add the carrots and 
+cook for about 5 minutes, stirring occasionally, until 
+the moisture starts to evaporate.
+3. Slowly stir in the sugar and cardamom and mix well.
+4. Add the ground almonds and stir well to combine.
+5. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+2 minutes on high pressure.
+6. When the timer goes oﬀ  , let the pressure release 
+naturally for about 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid.
+7. Top with the sliced almonds and serve warm.
+INGREDIENT TIP:  /T_h  is recipe is best served warm with a 
+dollop of vegan vanilla ice cream on the side. You can also 
+add in chopped cashews instead of almonds.
+Per serving: Calories: 251; T otal fat: 16g; Saturated fat: 2g; 
+Sodium: 51mg; Carbohydrates: 27g; Sugar: 21g; Fiber: 4g; 
+Protein: 4g;  Calcium: 60mg96 INSTANT POT VEGAN INDIAN COOKBOOKGreen Moong Kheer 
+(Green Moong Pudding)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook: 10 minutes, then 
+2 minutes/space.enPressure release: Quick, then Natural, 10 minutes/space.enTotal time: 37 minutes/space.enServes 6
+/T_h  is is a grain-free version of the classic kheer made from coconut milk and green 
+moong lentils. If you’ve never enjoyed lentils as a dessert, you’re in for a treat. Keep in 
+mind that it will thicken up as it cools.
+3 cups water
+1 cup dried green moong 
+lentils, rinsed
+1 /one.numr⁄/two.dnom cups full-fat 
+coconut milk
+/one.numr⁄/two.dnom cup sugar
+/one.numr⁄ /four.dnom teaspoon salt1. Put the water and lentils in the Instant Pot. Lock 
+the lid, close the steam valve, and set the timer for 
+10 minutes on high pressure.
+2. When the timer goes oﬀ  , quick release the pressure.
+3. Open the lid carefully and slowly stir in the coconut 
+milk, sugar, and salt. Mix well.
+4. Lock the lid, close the steam valve, and set the timer 
+for 2 minutes on high pressure.
+5. When the timer goes oﬀ  , let the pressure release 
+naturally for about 10 minutes, then quick release any 
+remaining pressure. Carefully remove the lid. Serve.
+VARIATION:  /T_h  is recipe can either be served warm or cold 
+depending on your preference.
+Per serving: Calories: 286; T otal fat: 11g; Saturated fat: 9g; 
+Sodium: 111mg; Carbohydrates: 41g; Sugar: 21g; Fiber: 6g; 
+Protein: 9g;  Calcium: 49mg97 DESSERTSBesan Barfi (Indian-Style Fudge)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE
+Prep time: 5 minutes/space.enSauté time: 5 minutes/space.enPressure build: 8 to 10 minutes
+Pressure cook: 4 minutes/space.enPressure release: Natural, 10 minutes
+Total time: 34 minutes/space.enServes 6
+/T_h  is is a traditional Indian-style fudge made from chickpea /f_l  our, sugar, and 
+cardamom, and is garnished with chopped mixed nuts. Feel free to experi-
+ment with the garnish, using other nuts, coconut /f_l  akes, or even rose petals for a 
+colorful presentation.
+/one.numr⁄ /four.dnom cup neutral cooking oil
+1 cup chickpea /f_l  our 
+(besan)
+/one.numr⁄/two.dnom cup sugar
+1 teaspoon ground 
+cardamom
+3 cups water
+/one.numr⁄/two.dnom cup chopped 
+mixed nuts (such as 
+cashews, almonds, 
+and pistachios)1. Select Sauté mode, adjust the heat to high, and put 
+the oil in the Instant Pot.
+2. Once the oil the starts to warm up, add the /f_l  our 
+and cook for 3 to 4 minutes, stirring occasionally to 
+avoid burning.
+3. Slowly stir in the sugar and cardamom and mix well. 
+Add the water and stir well to combine.
+4. Turn oﬀ   Sauté mode, lock the lid, and close the 
+steam valve. Press Manual and set the timer for 
+4 minutes on high pressure.
+5. When the timer goes oﬀ  , let the pressure release 
+naturally for about 10 minutes.
+6. Stir in the mixed nuts and spoon out the fudge onto 
+a greased baking sheet. Spread it with a spatula, 
+roughly ½   -inch thick.
+7. Cut into squares, let it cool, and serve at 
+room temperature.
+PREP TIP:  /T_h  e besan, or chickpea /f_l  our, should turn a 
+darker golden hue once it has been toasted properly. Be 
+careful not to let it burn by stirring occasionally to prevent 
+it from sticking to the bottom of the pot.
+Per serving: Calories: 285; T otal fat: 15g; Saturated fat: 2g; 
+Sodium: 2mg; Carbohydrates: 34g; Sugar: 18g; Fiber: 4g; 
+Protein: 5g;  Calcium: 27mg98 INSTANT POT VEGAN INDIAN COOKBOOKCoconut Ladoos (Coconut Fudge)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook: 1 minute
+Pressure release: Natural, 10 minutes/space.enTotal time: 26 minutes/space.enServes 6
+/T_h  ese Indian-style fudge balls are made with coconut and chopped nuts. /T_h  ey come 
+together quickly and are a tasty treat to share with friends or family—or to enjoy all on 
+your own! I use almonds here but feel free to mix and match with other nuts, if desired.
+3 cups dried 
+coconut /f_l  akes
+/one.numr⁄/two.dnom cup sugar
+/one.numr⁄/two.dnom cup full-fat 
+coconut milk
+1 tablespoon coconut oil
+1 cup /f_i  nely chopped 
+almonds1. Put the coconut /f_l  akes, sugar, coconut milk, and 
+coconut oil in the Instant Pot and stir to combine. 
+Lock the lid, close the steam valve, and set the timer 
+for 1 minute on high pressure.
+2. When the timer goes oﬀ  , let the pressure release 
+naturally for about 10 minutes, then quick release any 
+remaining pressure.
+3. Open the lid carefully and slowly stir in the almonds 
+to mix well.
+4. Let the mixture cool completely; then, using a 
+mini ice-cream scoop, spoon out balls of the fudge 
+and serve.
+PREP TIP:  Depending on the brand of coconut milk you 
+use, you might /f_i  nd the fudge to be slightly runny. If so, 
+you can simply roll the balls in desiccated coconut or 
+ coconut /f_l  akes to get a clean, /f_i  rm texture.
+Per serving: Calories: 508; T otal fat: 42g; Saturated fat: 29g; 
+Sodium: 17mg; Carbohydrates: 32g; Sugar: 21g; Fiber: 9g; 
+Protein: 8g;  Calcium: 70mg99 DESSERTSKhajur ki Mithai (Date Squares)
+GLUTEN/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 5 minutes/space.enPressure build: 8 to 10 minutes/space.enPressure cook: 2 minutes
+Pressure release: Quick/space.enTotal time: 17 minutes/space.enServes 6
+/T_h  ese Indian-style date squares are made with Medjool dates and chopped nuts, and 
+are almost like a fudge. /T_h  ey’re fairly quick and easy to put together and are a perfect 
+sweet treat or snack. Y ou can change up the nuts to your liking and try it out with 
+diﬀ  erent variations.
+2 cups Medjool 
+dates, pitted and 
+roughly chopped
+/one.numr⁄/two.dnom cup water
+1 tablespoon coconut oil
+/one.numr⁄ /four.dnom teaspoon ground 
+cardamom
+/one.numr⁄ /four.dnom cup chopped almonds
+/one.numr⁄ /four.dnom cup chopped cashews
+/one.numr⁄ /four.dnom cup chopped pistachios1. Put the dates, water, coconut oil, and  cardamom in 
+the Instant Pot and stir to mix well. Lock the lid, 
+close the steam valve, and set the timer for 2 minutes 
+on high pressure.
+2. When the timer goes oﬀ  , quick release the pressure.
+3. Open the lid carefully and slowly stir in the nuts to 
+mix well.
+4. Spread out the mixture evenly, making sure to smooth 
+the top surface.
+5. Let the mixture cool completely; then cut into 
+bite-size squares and serve.
+Per serving: Calories: 332; T otal fat: 10g; Saturated fat: 3g; 
+ Sodium: 2mg; Carbohydrates: 64g; Sugar: 54g; Fiber: 7g; 
+Protein: 5g;  Calcium: 74mgBEETROOT RAITA , page 106101CHAPTER SEVEN
+Basics
+Mango Chutney 102
+Tomato Chutney 103
+Mint Chutney 104
+Instant Chile Achaar (Quick Green Chile Pickles) 105
+Beetroot Raita 106
+Cucumber Raita 107
+Tomato Raita  108
+Kachumber (Indian-Style Chopped Salad) 109
+Garam Masala 110
+Tandoori Masala 111
+Paanch Phoron 112102 INSTANT POT VEGAN INDIAN COOKBOOKMango Chutney
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enMakes about 1 cup
+/T_h  is is a sweet and tangy chutney made with fresh mangoes and mint. /T_h  is chutney is 
+great with fried snacks like samosas and even pairs extremely well with wraps or sand-
+wiches. Fresh mango works best, but frozen, thawed mango can be used in its place to 
+save on prep time.
+1 large ripe mango, peeled 
+and chopped
+8 to 10 fresh mint leaves
+2 tablespoons freshly 
+squeezed lemon juice
+1 tablespoon sugar
+SaltIn a food processor, blend the mango, mint, lemon juice, 
+and sugar and season with salt. Blend until smooth. 
+Serve cold.
+INGREDIENT TIP:  /T_h  is chutney should have a balanced 
+sweet and tart /f_l  avor. If your mango lacks in sweetness, 
+increase the amount of sugar a bit.
+VARIATION:  You can alter this recipe by using fresh 
+pineapple or peaches instead of mangoes. Both variations 
+work well with Indian /f_l  avors and make a great addition to 
+any meal.
+Per /one.numr⁄ /four.dnom-cup serving: Calories: 64; T otal fat: <1g; Saturated fat: <1g; 
+Sodium: 1mg; Carbohydrates: 16g; Sugar: 15g; Fiber: 1g; Protein: 1g; 
+Calcium: 10mg103 BASICSTomato Chutney
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enSauté time: 5 minutes/space.enTotal time: 15 minutes/space.enMakes about 2 cups
+/T_h  is warm tomato-based chutney pairs well with Keema Pulao (page 83), Palak Rice 
+(page 53), and Tehri (page 55). /T_h  ough made to complement curries, it’s also tasty as a 
+sandwich spread or as a dipping sauce.
+1 tablespoon neutral 
+cooking oil
+1 teaspoon mustard seeds
+1 teaspoon cumin seeds
+1 tablespoon 
+minced garlic
+3 or 4 fresh curry leaves
+2 large tomatoes, /f_i  nely 
+chopped
+/one.numr⁄/two.dnom teaspoon ground 
+red chili
+/one.numr⁄ /four.dnom teaspoon ground 
+turmeric
+Salt1. Select Sauté mode, adjust the heat to low, and 
+put the oil, mustard seeds, and cumin seeds in the 
+Instant Pot. 
+2. Once the mustard and cumin seeds start to sizzle, 
+add the garlic and curry leaves and fry for a few 
+seconds until fragrant. Keep stirring occasionally to 
+avoid burning.
+3. Add the tomatoes, red chili, and turmeric and cook 
+for about 5 minutes, until the tomatoes start to pulp 
+and blend in with the spices.
+4. Season with salt and serve warm.
+PREP TIP:  When making a big batch, store this tomato 
+chutney in clean tightly sealing glass jars in the refriger-
+ator, and it will stay fresh for about 1 week. You can also 
+freeze a batch for up to 3 months.
+INGREDIENT TIP:  /T_h  e tomatoes need to cook down to 
+pulp to get a thick consistency for this chutney. You can 
+add a bit of water if the tomatoes are too /f_i  rm to pulp on 
+their own.
+Per /one.numr⁄ /four.dnom-cup serving: Calories: 29; T otal fat: 2g; Saturated fat: <1g; 
+Sodium: 3mg; Carbohydrates: 2g; Sugar: 1g; Fiber: 1g; Protein: 1g; 
+Calcium: 15mg104 INSTANT POT VEGAN INDIAN COOKBOOKMint Chutney
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enMakes 2 cups
+/T_h  is is a classic raw green chutney served with many of the popular Indian snacks, 
+such as samosas and pakoras. It’s also delicious with Vegetable Biryani (page 46) and 
+Chana Pulao (page 50). It’s made with a mix of green chiles, fresh cilantro, and mint.
+1 cup chopped fresh 
+mint leaves
+1 cup chopped fresh 
+cilantro leaves
+2 tablespoons freshly 
+squeezed lemon juice
+1 green chile (shishito, 
+jalapeño, or 
+banana pepper), 
+roughly chopped
+1 or 2 tablespoons water
+1 garlic clove, peeled
+/one.numr⁄ /four.dnom teaspoon ground cumin
+SaltIn a blender, blend the mint, cilantro, lemon juice, chile, 
+water, garlic, and cumin. Season with salt and  process 
+until smooth. Serve cold.
+INGREDIENT TIP:  When picking mint and cilantro, always 
+remember to select a bunch that is as fresh as possible with 
+vibrant green leaves.
+Per /one.numr⁄ /four.dnom-cup serving: Calories: 5; T otal fat: <1g; Saturated fat: <1g; 
+Sodium: 2mg; Carbohydrates: 1g; Sugar: <1g; Fiber: <1g; Protein: <1g; 
+Calcium: 11mg105 BASICSInstant Chile Achaar 
+(Quick Green Chile Pickles)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 5 minutes/space.enSauté time: 10 minutes/space.enTotal time: 15 minutes/space.enMakes about 2 cups
+A quick homestyle version of classic green chile pickles, these are served with meals 
+at many Indian restaurants. A little goes a long way to add a burst of /f_l  avor and heat 
+to dishes. If you want less heat, remove the seeds or choose milder chiles. Serve it 
+ alongside Dal Tadka (page 21) or Dal Makhani (page 76).
+1 tablespoon neutral 
+cooking oil
+1 teaspoon Paanch 
+Phoron (page 112)
+12 to 15 fresh large 
+green chiles (shishito, 
+jalapeño, or banana 
+peppers), cut into 
+/one.numr⁄/two.dnom-inch pieces
+1 teaspoon 
+amchur powder
+1 teaspoon sugar
+Salt1. Select Sauté mode, adjust the heat to high, and put 
+the oil and paanch phoron in the Instant Pot. 
+2. Once the paanch phoron starts to sizzle, add the 
+chiles and stir-fry for 5 to 6 minutes, until they begin 
+to blister and soften.
+3. Mix in the amchur powder and sugar and season 
+with salt. Stir-fry for another 1 to 2 minutes, until 
+everything is mixed well.
+4. Serve as an accompaniment with rice and dal.
+INGREDIENT TIP:  When picking green chiles, always 
+remember that the larger it is, the less spicy it will be. For 
+a milder version of this pickle, jalapeños or banana peppers 
+work really well.
+Per /one.numr⁄ /four.dnom-cup serving: Calories: 42; T otal fat: 2g; Saturated fat: <1g; 
+Sodium: 2mg; Carbohydrates: 6g; Sugar: 3g; Fiber: 2g; Protein: 1g; 
+Calcium: 10mg106 INSTANT POT VEGAN INDIAN COOKBOOKBeetroot Raita
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enMakes about 1 cup
+/T_h  is is another version of a simple raita made with grated beetroot. It’s colorful, cool-
+ing, and great with spicy dishes. Try it alongside Vegetable Biryani (page 46) or Keema 
+Pulao (page 83).
+1 cup plain vegan yogurt, 
+beaten until smooth 
+(con/f_i  rm nut-free 
+if needed)
+/three.numr⁄ /four.dnom cup grated beetroot
+1 tablespoon minced fresh 
+cilantro leaves
+/one.numr⁄ /four.dnom teaspoon ground cumin
+/one.numr⁄ /four.dnom teaspoon ground 
+red chili
+SaltIn a medium bowl, mix the yogurt, beetroot, cilantro, 
+cumin, and red chili. Season with salt and serve cold.
+PREP TIP: Raita is best enjoyed as soon as it is prepared. If 
+you let it sit for too long, it starts to extract more moisture 
+and lose its /f_l  avor—especially when fresh herbs are added.
+Per /one.numr⁄ /four.dnom-cup serving: Calories: 65; T otal fat: 5g; Saturated fat: <1g; 
+Sodium: 46mg; Carbohydrates: 7g; Sugar: 4g; Fiber: 2g; Protein: 2g; 
+Calcium: 25mg107 BASICSCucumber Raita
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enMakes about 1 cup
+/T_h  e classic pairing to any Indian meal, cucumber raita is a yogurt dip made with fresh 
+grated cucumber and seasoned lightly with spices. Serve it as a side with any dish 
+consisting of rice and lentils.
+1 cup plain vegan yogurt, 
+beaten until smooth 
+(con/f_i  rm nut-free 
+if needed)
+/three.numr⁄ /four.dnom cup grated cucumber
+1 tablespoon minced fresh 
+mint leaves
+/one.numr⁄ /four.dnom teaspoon ground cumin
+/one.numr⁄ /four.dnom teaspoon ground 
+red chili
+SaltIn a medium bowl, mix the yogurt, cucumber, mint, 
+cumin, and red chili. Season with salt and serve cold.
+INGREDIENT TIP:  /T_h  e grated cucumber will continue to 
+release its own moisture the longer it sits. To avoid the 
+raita thinning down too much, prepare this right before 
+you’re ready to serve.
+Per /one.numr⁄ /four.dnom-cup serving: Calories: 47; T otal fat: 5g; Saturated fat: <1g; 
+Sodium: 5mg; Carbohydrates: 3g; Sugar: 1g; Fiber: 1g; Protein: 2g; 
+Calcium: 22mg108 INSTANT POT VEGAN INDIAN COOKBOOKTomato Raita
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enMakes about 1 cup
+In this version of raita, fresh tomatoes come together with a few fresh herbs and spices 
+to jazz up plain yogurt. /T_h  e tomatoes add a subtle sweetness to the plain yogurt and 
+give it some texture.
+1 cup plain vegan yogurt, 
+beaten until smooth 
+(con/f_i  rm nut-free 
+if needed)
+1 cup /f_i  nely chopped 
+tomatoes 
+1 tablespoon fresh cilantro 
+leaves, minced
+1 tablespoon fresh mint 
+leaves, minced
+¼ teaspoon 
+cumin powder
+¼ teaspoon red 
+chili powder
+SaltIn a medium bowl, mix the yogurt, tomatoes, cilantro, 
+mint, cumin, and chili powder. Season with salt and 
+serve cold.
+Per ¼-cup serving: Calories: 51; T otal fat: 3g; Saturated fat: 1g; 
+Sodium: 9mg; Carbohydrates: 5g; Sugar: 2g; Fiber: 1g; Protein: 2g; 
+Calcium: 16mg109 BASICSKachumber 
+(Indian-Style Chopped Salad)
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enMakes 2 cups
+/T_h  is Indian-style salad is most commonly made with /f_i  nely chopped onions, tomatoes, 
+and cucumbers, with a splash of fresh lemon juice. If you don’t have chaat masala, you 
+can also use an additional squeeze of fresh lemon juice.
+1 cup /f_i  nely chopped 
+cucumber
+1 cup /f_i  nely chopped 
+tomatoes
+/one.numr⁄/two.dnom cup /f_i  nely 
+chopped onions
+/one.numr⁄ /four.dnom cup /f_i  nely chopped 
+fresh cilantro leaves
+/one.numr⁄ /four.dnom cup freshly squeezed 
+lemon juice
+/one.numr⁄ /four.dnom teaspoon chaat masala
+Salt
+Freshly ground 
+black pepperIn a medium bowl, mix the cucumber, tomatoes, onions, 
+cilantro, lemon juice, and chaat masala. Season with salt 
+and pepper and serve cold.
+Per 1-cup serving: Calories: 55; T otal fat: <1g; Saturated fat: <1g; 
+Sodium: 20mg; Carbohydrates: 13g; Sugar: 6g; Fiber: 3g; Protein: 2g; 
+Calcium: 36mg110 INSTANT POT VEGAN INDIAN COOKBOOKGaram Masala
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 10 minutes/space.enSauté time: 2 minutes/space.enMakes about /one.numr⁄ /four.dnom cup
+Garam masala is a warming spice blend made from a mix of various whole spices, 
+typically used as a /f_i  nishing spice in most curries. Almost every Indian home has its 
+own secret recipe, varying by region and the amount of the spices used.
+2 tablespoons 
+coriander seeds
+1 teaspoon cumin seeds
+1 (1-inch) cinnamon stick
+2 bay leaves
+4 or 5 whole cloves
+4 or 5 whole green 
+cardamom pods1. Select Sauté mode, adjust the heat to high, and put 
+the coriander seeds, cumin seeds, cinnamon stick, 
+bay leaves, cloves, and cardamom pods in the Instant 
+Pot. Dry roast all the spices together for a couple of 
+minutes until they start to get fragrant, being careful 
+not to let them burn.
+2. Let the spices cool a bit, then grind them to a /f_i  ne 
+powder in a spice grinder.
+PREP TIP:  /T_h  is spice blend should be stored in a cool, dry 
+place and keeps well for up to 1 month.
+Per 1-tablespoon serving: Calories: 14; T otal fat: 1g; Saturated fat: 0g; 
+Sodium: 2mg; Carbohydrates: 3g; Sugar: 0g; Fiber: 2g; Protein: 1g; 
+Calcium: 34mg111 BASICSTandoori Masala
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 5 minutes/space.enMakes 5 tablespoons
+/T_h  is is a spice blend used in most grilled Indian recipes, mainly consisting of red chili, 
+coriander, and garam masala. Try it with Achari Paneer Tikka (page 80) and Achari 
+Gobi (page 62).
+3 tablespoons ground 
+coriander
+1 tablespoon 
+amchur powder
+1 teaspoon ground 
+red chili
+1 teaspoon Garam Masala 
+(page 110)
+1 teaspoon chaat masalaIn a small bowl, mix the coriander, amchur powder, 
+red chili, garam masala, and chaat masala until well 
+ combined. Store it in a clean, dry jar with a tight lid.
+PREP TIP:  /T_h  is spice blend should be stored in a cool, dry 
+place and keeps well for up to 1 month.
+Per 1-tablespoon serving: Calories: 26; T otal fat: <1g; Saturated 
+fat: 0g; Sodium: 20mg; Carbohydrates: 6g; Sugar: <1g; Fiber: <1g; 
+ Protein: <1g; Calcium: 17mg112 INSTANT POT VEGAN INDIAN COOKBOOKPaanch Phoron
+GLUTEN/hyphen.ucFREE, NUT/hyphen.ucFREE, SOY/hyphen.ucFREE, SUPER FAST
+Prep time: 5 minutes/space.enMakes 5 tablespoons
+A traditional spice mix from the region of Bengal, paanch phoron is typically used 
+at the start of the cooking process as a tempering agent. It’s made with /f_i  ve diﬀ  erent 
+spice seeds. If you can’t /f_i  nd nigella seeds, also known as kalonji, you can substitute 
+them with celery seeds.
+1 tablespoon cumin seeds
+1 tablespoon fennel seeds
+1 tablespoon nigella seeds
+1 tablespoon 
+mustard seeds
+1 tablespoon 
+fenugreek seedsIn a small bowl, mix the cumin seeds, fennel seeds, 
+nigella seeds, mustard seeds, and fenugreek seeds. Store 
+in a clean, dry jar with a tight-/f_i  tting resealable lid.
+INGREDIENT TIP:  /T_h  is spice blend should be stored in a 
+cool, dry place and keeps well for up to 1 month.
+Per 1-tablespoon serving: Calories: 37; T otal fat: 2g; Saturated 
+fat: <1g; Sodium: 5mg; Carbohydrates: 4g; Sugar: <1g; Fiber: 2g; 
+ Protein: 2g; Calcium: 32mgMEASUREMENT 
+CONVERSIONS
+VOLUME EQUIVALENTS /parenleft.caseLIQUID/parenright.case
+US STANDARDUS STANDARD 
+/parenleft.ucOUNCES/parenright.ucMETRIC
+/parenleft.ucAPPROX./parenright.uc
+2 tablespoons   1 fl. oz.  30 mL
+¼ cup   2 fl. oz.  60 mL
+½ cup   4 fl. oz. 120 mL
+1 cup   8 fl. oz. 240 mL
+1½ cups  12 fl. oz. 355 mL
+2 cups or 1 pint  16 fl. oz. 475 mL
+4 cups or 1 quart  32 fl. oz. 1 L
+1 gallon 128 fl. oz. 4 L
+VOLUME EQUIVALENTS /parenleft.caseDRY/parenright.case
+US STANDARDMETRIC 
+/parenleft.ucAPPROX./parenright.uc
+⅛ teaspoon          0.5 mL
+¼ teaspoon   1 mL
+½ teaspoon   2 mL
+¾ teaspoon   4 mL
+1 teaspoon   5 mL
+1 tablespoon  15 mL
+¼ cup  59 mL
+⅓ cup  79 mL
+½ cup 118 mL
+⅔ cup 156 mL
+¾ cup 177 mL
+1 cup 235 mL
+2 cups or 1 pint 475 mL
+3 cups 700 mL
+4 cups or 1 quart 1 LOVEN TEMPERATURES
+FAHRENHEIT 
+/parenleft.ucF/parenright.ucCELSIUS
+ /parenleft.ucC/parenright.uc /parenleft.ucAPPROX./parenright.uc
+250° 120°
+300° 150°
+325° 165°
+350° 180°
+375° 190°
+400° 200°
+425° 220°
+450° 230°
+WEIGHT EQUIVALENTS
+US STANDARDMETRIC 
+/parenleft.ucAPPROX./parenright.uc
+½ ounce  15 g
+1 ounce  30 g
+2 ounces  60 g
+4 ounces 115 g
+8 ounces 225 g
+12 ounces 340 g
+16 ounces 
+or 1 pound455 g
+115116RESOURCES
+COOKBOOKS
+• Agarwal, Meena.  500 Indian Dishes . Apple Press, 2013.
+• Agarwal, Meena.  Knack Indian Cooking: A Step-by-Step Guide to Authentic Dishes 
+Made Easy . Globe Pequot Press, 2010.
+SPICES
+If you can’t /f_i  nd certain spices at your local supermarket or Indian grocer, try these 
+online sources:
+• Arvindas.com
+• DiasporaCo.com
+• SpiceWallaBrand.com
+• /T_h  eSpicyGourmet.com117INDEX
+A
+Achari Gobi (Spiced 
+Cauliflower), 62
+Achari Paneer Tikka, 80
+Alu Baingan (Eggplant and 
+Potato Curry), 63
+Alu Bhaji (Potato Curry), 70
+Alu Chana (Chickpeas and 
+Potato Curry), 18
+Alu Gosht (“Meat” and 
+Potato Curry), 86
+Alu Lobia (Black-Eyed Peas 
+and Potato Curry), 36
+Alu Matar (Potato and 
+Pea Curry), 60
+Aromatics, 7
+B
+Baingan Bharta (Spiced 
+Eggplant Mash), 65
+Basmati rice, 7
+Chana Pulao, 50
+Coconut Rice, 51
+Jeera Rice (Cumin 
+Rice), 44
+Kashmiri Pulao, 54
+Keema Pulao (Ground 
+“Meat” and Rice), 83
+Kichdi, 49
+Lemon Rice, 48
+Mango Kheer (Mango 
+Rice Pudding), 93
+Masala Pulao, 56
+Palak Rice, 53
+Paneer Biryani, 84
+Peas Pulao, 43
+Perfect Basmati Rice, 42
+Potato Mint Pulao, 57Rajma Pulao, 52
+Saﬀ  ron Kheer (Saﬀ  ron 
+Rice Pudding), 94
+Tehri, 55
+Tomato Rice, 45
+Vegetable Biryani, 46–47
+Beetroot Raita, 106
+Besan Barfi (Indian-
+Style Fudge), 97
+Bharwan Baingan (Stuﬀ  ed 
+Eggplants), 68
+Bhindi Do Piaza (Okra 
+with Onions), 69
+Bhunao technique, 11
+Black-eyed peas, 5
+Alu Lobia (Black-Eyed 
+Peas and Potato 
+Curry), 36
+Lobia Masala 
+(Black-Eyed Pea 
+Curry), 24–25
+Black salt, 3
+Butternut squash
+Kaddu ki Sabzi (Spiced 
+Butternut Squash), 72
+C
+Cardamom pods, 
+green, 2
+Carrots
+Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Gajar Halwa (Carrot 
+Halwa), 95
+Cauliflower
+Achari Gobi (Spiced 
+Cauliflower), 62Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Gobi Tikka Masala 
+(Spiced Cauliflower 
+Curry), 81
+Cayenne, 2
+Chana dal, 5, 6
+Chana Dal Masala, 22
+Chana Masala, 28
+Chana Pulao, 50
+Chana Saag (Chickpeas 
+and Spinach), 34
+Chatpata Urad Dal 
+(Tangy Lentils), 37
+Chickpea flour, 7
+Chickpeas, 5, 6
+Alu Chana (Chickpeas 
+and Potato Curry), 18
+Chana Masala, 28
+Chana Pulao, 50
+Chana Saag (Chickpeas 
+and Spinach), 34
+Chole (Chickpea 
+Curry), 17
+Coconut Chickpea 
+Curry, 29
+Kala Chana (Spiced 
+Brown Chickpeas), 
+32–33
+Chole (Chickpea 
+Curry), 17
+Chutneys, 7
+Mango Chutney, 102
+Mint Chutney, 104
+Tomato Chutney, 103
+Cinnamon sticks, 2
+Cloves, 3118 INDEXCoconut milk, 7
+Coconut Chickpea 
+Curry, 29
+Coconut Ladoos 
+(Coconut Fudge), 98
+Coconut Rice, 51
+Coriander, 2
+Corn Masala Curry, 73
+Cream substitutes, 9
+Cucumber Raita, 107
+Cumin, 2
+Jeera Rice (Cumin 
+Rice), 44
+Curries
+Alu Baingan (Eggplant 
+and Potato Curry), 63
+Alu Bhaji (Potato 
+Curry), 70
+Alu Chana (Chickpeas 
+and Potato Curry), 18
+Alu Gosht (“Meat” and 
+Potato Curry), 86
+Alu Lobia (Black-Eyed 
+Peas and Potato 
+Curry), 36
+Alu Matar (Potato and 
+Pea Curry), 60
+Baingan Bharta 
+(Spiced Eggplant 
+Mash), 65
+Chana Masala, 28
+Chole (Chickpea 
+Curry), 17
+Coconut Chickpea 
+Curry, 29
+Corn Masala Curry, 73
+Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Gobi Tikka Masala 
+(Spiced Cauliflower 
+Curry), 81
+Kaddu ki Sabzi (Spiced 
+Butternut Squash), 72Kali Dal (Curried 
+Black Lentils), 23
+Lobia Masala 
+(Black-Eyed Pea 
+Curry), 24–25
+Masala Masoor Dal 
+(Spiced Lentil 
+Curry), 31
+Matar Paneer (Pea and 
+Tofu Curry), 61
+Methi Malai (“Chicken” 
+Curry), 85
+Mushroom Matar 
+(Mushroom and 
+Pea Curry), 66
+Rajma (Red Kidney 
+Bean Curry), 16
+Vegetable Korma, 67
+Curry leaves, 3
+D
+Dal Makhani (Creamy 
+Black Lentils), 76–77
+Dal Tadka, 21
+Dates
+Khajur ki Mithai (Date 
+Squares), 99
+Desserts
+Besan Barfi (Indian-Style 
+Fudge), 97
+Coconut Ladoos 
+(Coconut Fudge), 98
+Gajar Halwa (Carrot 
+Halwa), 95
+Green Moong Kheer 
+(Green Moong 
+Pudding), 96
+Khajur ki Mithai (Date 
+Squares), 99
+Mango Kheer (Mango 
+Rice Pudding), 93
+Mango Sabudana Kheer 
+(Mango Tapioca 
+Pudding), 90Moong Dal Halwa 
+(Yellow Moong 
+Halwa), 92
+Saﬀ  ron Kheer (Saﬀ  ron 
+Rice Pudding), 94
+Sooji Halwa (Semolina 
+Halwa), 91
+E
+Eggplants
+Alu Baingan (Eggplant 
+and Potato Curry), 63
+Baingan Bharta (Spiced 
+Eggplant Mash), 65
+Bharwan Baingan 
+(Stuﬀ  ed 
+Eggplants), 68
+F
+Flavor-building, 11
+Fudge
+Besan Barfi (Indian-Style 
+Fudge), 97
+Coconut Ladoos 
+(Coconut Fudge), 98
+G
+Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Gajar Halwa (Carrot 
+Halwa), 95
+Garam Masala, 110
+Ghee substitutes, 9
+Gluten-free
+Achari Gobi (Spiced 
+Cauliflower), 62
+Achari Paneer Tikka, 80
+Alu Baingan (Eggplant 
+and Potato Curry), 63
+Alu Bhaji (Potato 
+Curry), 70
+Alu Chana (Chickpeas 
+and Potato Curry), 18119 INDEXAlu Gosht (“Meat” and 
+Potato Curry), 86
+Alu Lobia (Black-Eyed 
+Peas and Potato 
+Curry), 36
+Alu Matar (Potato and 
+Pea Curry), 60
+Baingan Bharta (Spiced 
+Eggplant Mash), 65
+Beetroot Raita, 106
+Besan Barfi (Indian-Style 
+Fudge), 97
+Bharwan Baingan 
+(Stuﬀ  ed 
+Eggplants), 68
+Bhindi Do Piaza (Okra 
+with Onions), 69
+Chana Dal Masala, 22
+Chana Masala, 28
+Chana Pulao, 50
+Chana Saag (Chickpeas 
+and Spinach), 34
+Chatpata Urad Dal 
+(Tangy Lentils), 37
+Chole (Chickpea 
+Curry), 17
+Coconut Chickpea 
+Curry, 29
+Coconut Ladoos 
+(Coconut Fudge), 98
+Coconut Rice, 51
+Corn Masala Curry, 73
+Cucumber Raita, 107
+Dal Makhani, 76–77
+Dal Tadka, 21
+Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Gajar Halwa (Carrot 
+Halwa), 95
+Garam Masala, 110
+Gobi Tikka Masala 
+(Spiced Cauliflower 
+Curry), 81Green Moong Kheer 
+(Green Moong 
+Pudding), 96
+Instant Chile Achaar 
+(Quick Green Chile 
+Pickles), 105
+Jeera Rice (Cumin 
+Rice), 44
+Kachumber (Indian-Style 
+Chopped Salad), 109
+Kaddu ki Sabzi (Spiced 
+Butternut Squash), 72
+Kadhai Mushroom 
+(Mushrooms and 
+Peppers), 71
+Kala Chana (Spiced 
+Brown Chickpeas), 
+32–33
+Kali Dal (Curried 
+Black Lentils), 23
+Kashmiri Pulao, 54
+Keema Matar (Ground 
+“Meat” and Peas), 79
+Keema Pulao (Ground 
+“Meat” and Rice), 83
+Khajur ki Mithai (Date 
+Squares), 99
+Khatti-Meethi Dal (Sweet 
+and Sour Lentils), 38
+Kichdi, 49
+Lemon Rice, 48
+Lobia Masala 
+(Black-Eyed Pea 
+Curry), 24–25
+Mango Chutney, 102
+Mango Kheer (Mango 
+Rice Pudding), 93
+Mango Sabudana Kheer 
+(Mango Tapioca 
+Pudding), 90
+Masala Masoor Dal 
+(Spiced Lentil 
+Curry), 31
+Masala Pulao, 56Matar Paneer (Pea and 
+Tofu Curry), 61
+Methi Malai (“Chicken” 
+Curry), 85
+Mint Chutney, 104
+Mixed Dal, 26–27
+Moong Dal Halwa (Yellow 
+Moong Halwa), 92
+Mushroom Matar 
+(Mushroom and 
+Pea Curry), 66
+Paanch Phoron, 112
+Palak Dal (Spinach Dal), 19
+Palak Rice, 53
+Paneer Biryani, 84
+Paneer Burji (Spiced 
+Crumbled Tofu), 78
+Peas Pulao, 43
+Perfect Basmati Rice, 42
+Potato Mint Pulao, 57
+Rajma (Red Kidney 
+Bean Curry), 16
+Rajma Pulao, 52
+Saag Paneer (Spinach 
+and Tofu), 82
+Saﬀ  ron Kheer (Saﬀ  ron 
+Rice Pudding), 94
+Sambhar (South Indian 
+Lentil Stew), 20
+Tandoori Masala, 111
+Tehri, 55
+Tomato Chutney, 103
+Tomato Raita, 108
+Tomato Rice, 45
+Vegetable Biryani, 46–47
+Vegetable Dal, 30
+Vegetable Korma, 67
+Zucchini Chana Dal, 35
+Gobi Tikka Masala (Spiced 
+Cauliflower Curry), 81
+Green chiles
+Instant Chile Achaar 
+(Quick Green Chile 
+Pickles), 105120 INDEXGreen Moong Kheer (Green 
+Moong Pudding), 96
+Grocery shopping, 4
+H
+Herbs, 7
+High altitude cooking, 10
+I
+Instant Pots, 8, 10
+J
+Jeera Rice (Cumin 
+Rice), 44
+K
+Kachumber (Indian-Style 
+Chopped Salad), 109
+Kaddu ki Sabzi (Spiced 
+Butternut Squash), 72
+Kadhai Mushroom 
+(Mushrooms and 
+Peppers), 71
+Kala Chana (Spiced Brown 
+Chickpeas), 32–33
+Kali Dal (Curried Black 
+Lentils), 23
+Kashmiri Pulao, 54
+Kasoori methi, 3
+Keema Matar 
+(Ground “Meat” 
+and Peas), 79
+Keema Pulao (Ground 
+“Meat” and Rice), 83
+Khajur ki Mithai (Date 
+Squares), 99
+Khatti-Meethi Dal (Sweet 
+and Sour Lentils), 38
+Kichdi, 49
+Kidney beans, 5, 6
+Rajma (Red Kidney 
+Bean Curry), 16
+Rajma Pulao, 52L
+Legumes, 5–6
+Lemon Rice, 48
+Lentils, 5–6, 76–77
+Chana Dal Masala, 22
+Chatpata Urad Dal 
+(Tangy Lentils), 37
+Dal Tadka, 21
+Kali Dal (Curried 
+Black Lentils), 23
+Khatti-Meethi Dal (Sweet 
+and Sour Lentils), 38
+Kichdi, 49
+Masala Masoor Dal 
+(Spiced Lentil 
+Curry), 31
+Mixed Dal, 26–27
+Moong Dal Halwa 
+(Yellow Moong 
+Halwa), 92
+Palak Dal (Spinach 
+Dal), 19
+Sambhar (South Indian 
+Lentil Stew), 20
+Vegetable Dal, 30
+Zucchini Chana Dal, 35
+Lobia Masala (Black-Eyed 
+Pea Curry), 24–25
+M
+Mangos
+Mango Chutney, 102
+Mango Kheer (Mango 
+Rice Pudding), 93
+Mango Sabudana Kheer 
+(Mango Tapioca 
+Pudding), 90
+Masala Masoor Dal (Spiced 
+Lentil Curry), 31
+Masala Pulao, 56
+Masalas (spice 
+blends), 3–4
+Garam Masala, 110Paanch Phoron, 112
+Tandoori Masala, 111
+Matar Paneer (Pea and 
+Tofu Curry), 61
+Methi Malai (“Chicken” 
+Curry), 85
+Milk substitutes, 9
+Mint
+Mint Chutney, 104
+Potato Mint Pulao, 57
+Moong lentils, 6
+Moong Dal Halwa (Yellow 
+Moong Halwa), 92
+Mushrooms
+Kadhai Mushroom 
+(Mushrooms and 
+Peppers), 71
+Mushroom Matar 
+(Mushroom and 
+Pea Curry), 66
+Mustard seeds, 3
+N
+Nut-free
+Achari Gobi (Spiced 
+Cauliflower), 62
+Achari Paneer Tikka, 80
+Alu Baingan (Eggplant 
+and Potato Curry), 63
+Alu Bhaji (Potato 
+Curry), 70
+Alu Chana (Chickpeas 
+and Potato Curry), 18
+Alu Gosht (“Meat” and 
+Potato Curry), 86
+Alu Lobia (Black-Eyed 
+Peas and Potato 
+Curry), 36
+Alu Matar (Potato and 
+Pea Curry), 60
+Baingan Bharta (Spiced 
+Eggplant Mash), 65
+Beetroot Raita, 106121 INDEXBharwan Baingan 
+(Stuﬀ  ed 
+Eggplants), 68
+Bhindi Do Piaza (Okra 
+with Onions), 69
+Chana Dal Masala, 22
+Chana Masala, 28
+Chana Pulao, 50
+Chana Saag (Chickpeas 
+and Spinach), 34
+Chatpata Urad Dal 
+(Tangy Lentils), 37
+Chole (Chickpea 
+Curry), 17
+Corn Masala 
+Curry, 73
+Cucumber Raita, 107
+Dal Makhani, 76–77
+Dal Tadka, 21
+Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Garam Masala, 110
+Gobi Tikka Masala 
+(Spiced Cauliflower 
+Curry), 81
+Instant Chile Achaar 
+(Quick Green Chile 
+Pickles), 105
+Jeera Rice (Cumin 
+Rice), 44
+Kachumber (Indian-Style 
+Chopped Salad), 109
+Kaddu ki Sabzi (Spiced 
+Butternut Squash), 72
+Kadhai Mushroom 
+(Mushrooms and 
+Peppers), 71
+Kala Chana (Spiced 
+Brown Chickpeas), 
+32–33
+Kali Dal (Curried 
+Black Lentils), 23Keema Matar (Ground 
+“Meat” and Peas), 79
+Keema Pulao (Ground 
+“Meat” and Rice), 83
+Khatti-Meethi Dal (Sweet 
+and Sour Lentils), 38
+Kichdi, 49
+Lemon Rice, 48
+Lobia Masala 
+(Black-Eyed Pea 
+Curry), 24–25
+Mango Chutney, 102
+Masala Masoor Dal 
+(Spiced Lentil 
+Curry), 31
+Masala Pulao, 56
+Matar Paneer (Pea and 
+Tofu Curry), 61
+Mint Chutney, 104
+Mixed Dal, 26–27
+Mushroom Matar 
+(Mushroom and 
+Pea Curry), 66
+Paanch Phoron, 112
+Palak Dal (Spinach 
+Dal), 19
+Palak Rice, 53
+Paneer Biryani, 84
+Paneer Burji (Spiced 
+Crumbled Tofu), 78
+Peas Pulao, 43
+Perfect Basmati 
+Rice, 42
+Potato Mint Pulao, 57
+Rajma (Red Kidney 
+Bean Curry), 16
+Rajma Pulao, 52
+Saag Paneer (Spinach 
+and Tofu), 82
+Sambhar (South Indian 
+Lentil Stew), 20
+Tandoori Masala, 111
+Tehri, 55Tomato Chutney, 103
+Tomato Rice, 45
+Vegetable Biryani, 46–47
+Vegetable Dal, 30
+Zucchini Chana Dal, 35
+O
+Okra
+Bhindi Do Piaza (Okra 
+with Onions), 69
+Onions
+Bhindi Do Piaza (Okra 
+with Onions), 69
+P
+Paanch Phoron, 112
+Palak Dal (Spinach Dal), 19
+Palak Rice, 53
+Paneer Biryani, 84
+Paneer Burji (Spiced 
+Crumbled Tofu), 78
+Paneer substitutes, 9
+Pantry staples, 7–8
+Peas
+Alu Matar (Potato and 
+Pea Curry), 60
+Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Keema Matar 
+(Ground “Meat” 
+and Peas), 79
+Matar Paneer (Pea and 
+Tofu Curry), 61
+Mushroom Matar 
+(Mushroom and 
+Pea Curry), 66
+Peas Pulao, 43
+Peppercorns, black, 2
+Peppers
+Kadhai Mushroom 
+(Mushrooms and 
+Peppers), 71122 INDEXPotatoes
+Alu Baingan (Eggplant 
+and Potato Curry), 63
+Alu Bhaji (Potato 
+Curry), 70
+Alu Chana (Chickpeas 
+and Potato Curry), 18
+Alu Gosht (“Meat” and 
+Potato Curry), 86
+Alu Lobia (Black-Eyed 
+Peas and Potato 
+Curry), 36
+Alu Matar (Potato and 
+Pea Curry), 60
+Potato Mint Pulao, 57
+Tehri, 55
+Puddings
+Gajar Halwa (Carrot 
+Halwa), 95
+Green Moong Kheer 
+(Green Moong 
+Pudding), 96
+Mango Kheer 
+(Mango Rice 
+Pudding), 93
+Mango Sabudana Kheer 
+(Mango Tapioca 
+Pudding), 90
+Moong Dal Halwa (Yellow 
+Moong Halwa), 92
+Saﬀ  ron Kheer (Saﬀ  ron 
+Rice Pudding), 94
+Sooji Halwa (Semolina 
+Halwa), 91
+R
+Raita
+Beetroot Raita, 106
+Cucumber Raita, 107
+Tomato Raita, 108
+Rajma (Red Kidney 
+Bean Curry), 16
+Rajma Pulao, 52Recipes, about, 11–12
+Red chili powder, 2
+Rice. See Basmati rice
+S
+Saag Paneer (Spinach 
+and Tofu), 82
+Saﬀ  ron, 3
+Saﬀ  ron Kheer (Saﬀ  ron 
+Rice Pudding), 94
+Salt, 3
+Sambhar (South Indian 
+Lentil Stew), 20
+Semolina, 7
+Sooji Halwa (Semolina 
+Halwa), 91
+Sooji Halwa (Semolina 
+Halwa), 91
+Soy-free
+Achari Gobi (Spiced 
+Cauliflower), 62
+Alu Baingan (Eggplant 
+and Potato Curry), 63
+Alu Bhaji (Potato 
+Curry), 70
+Alu Chana (Chickpeas 
+and Potato Curry), 18
+Alu Lobia (Black-Eyed 
+Peas and Potato 
+Curry), 36
+Alu Matar (Potato and 
+Pea Curry), 60
+Baingan Bharta (Spiced 
+Eggplant Mash), 65
+Beetroot Raita, 106
+Besan Barfi (Indian-Style 
+Fudge), 97
+Bharwan Baingan 
+(Stuﬀ  ed Eggplants), 68
+Bhindi Do Piaza (Okra 
+with Onions), 69
+Chana Dal Masala, 22
+Chana Masala, 28Chana Pulao, 50
+Chana Saag (Chickpeas 
+and Spinach), 34
+Chatpata Urad Dal 
+(Tangy Lentils), 37
+Chole (Chickpea 
+Curry), 17
+Coconut Chickpea 
+Curry, 29
+Coconut Ladoos 
+(Coconut Fudge), 98
+Coconut Rice, 51
+Corn Masala Curry, 73
+Cucumber Raita, 107
+Dal Makhani, 76–77
+Dal Tadka, 21
+Gajar Gobi Matar 
+(Carrots, Cauliflower, 
+and Peas), 64
+Gajar Halwa (Carrot 
+Halwa), 95
+Garam Masala, 110
+Gobi Tikka Masala 
+(Spiced Cauliflower 
+Curry), 81
+Green Moong Kheer 
+(Green Moong 
+Pudding), 96
+Instant Chile Achaar 
+(Quick Green Chile 
+Pickles), 105
+Jeera Rice (Cumin 
+Rice), 44
+Kachumber (Indian-Style 
+Chopped Salad), 109
+Kaddu ki Sabzi (Spiced 
+Butternut Squash), 72
+Kadhai Mushroom 
+(Mushrooms and 
+Peppers), 71
+Kala Chana (Spiced 
+Brown Chickpeas), 
+32–33123 INDEXKali Dal (Curried 
+Black Lentils), 23
+Kashmiri Pulao, 54
+Khajur ki Mithai (Date 
+Squares), 99
+Khatti-Meethi Dal (Sweet 
+and Sour Lentils), 38
+Kichdi, 49
+Mango Chutney, 102
+Mango Kheer (Mango 
+Rice Pudding), 93
+Mango Sabudana Kheer 
+(Mango Tapioca 
+Pudding), 90
+Masala Masoor Dal 
+(Spiced Lentil 
+Curry), 31
+Masala Pulao, 56
+Mint Chutney, 104
+Mixed Dal, 26–27
+Moong Dal Halwa 
+(Yellow Moong 
+Halwa), 92
+Mushroom Matar 
+(Mushroom and 
+Pea Curry), 66
+Paanch Phoron, 112
+Palak Dal (Spinach 
+Dal), 19
+Palak Rice, 53
+Peas Pulao, 43
+Perfect Basmati Rice, 42
+Potato Mint Pulao, 57
+Rajma (Red Kidney 
+Bean Curry), 16
+Rajma Pulao, 52
+Saﬀ  ron Kheer (Saﬀ  ron 
+Rice Pudding), 94
+Sambhar (South Indian 
+Lentil Stew), 20
+Sooji Halwa (Semolina 
+Halwa), 91Tandoori Masala, 111
+Tehri, 55
+Tomato Chutney, 103
+Tomato Raita, 108
+Tomato Rice, 45
+Vegetable Biryani, 46–47
+Vegetable Dal, 30
+Vegetable Korma, 67
+Zucchini Chana Dal, 35
+Spices, 2–4, 11
+Spinach, 7
+Chana Saag (Chickpeas 
+and Spinach), 34
+Palak Dal (Spinach Dal), 19
+Palak Rice, 53
+Saag Paneer (Spinach 
+and Tofu), 82
+Substitutions, 9
+Super fast
+Achari Paneer Tikka, 80
+Beetroot Raita, 106
+Bhindi Do Piaza (Okra 
+with Onions), 69
+Coconut Ladoos 
+(Coconut Fudge), 98
+Cucumber Raita, 107
+Garam Masala, 110
+Instant Chile Achaar 
+(Quick Green Chile 
+Pickles), 105
+Kachumber 
+(Indian-Style Chopped 
+Salad), 109
+Khajur ki Mithai (Date 
+Squares), 99
+Mango Chutney, 102
+Mint Chutney, 104
+Paanch Phoron, 112
+Perfect Basmati Rice, 42
+Tandoori Masala, 111
+Tomato Chutney, 103
+Tomato Raita, 108T
+Tadka process, 11
+Tamarind, 8
+Tandoori Masala, 111
+Tehri, 55
+Textured soy protein, 8
+Alu Gosht (“Meat” and 
+Potato Curry), 86
+Keema Matar (Ground 
+“Meat” and Peas), 79
+Keema Pulao (Ground 
+“Meat” and Rice), 83
+Tofu
+Achari Paneer Tikka, 80
+Matar Paneer (Pea and 
+Tofu Curry), 61
+Methi Malai (“Chicken” 
+Curry), 85
+Paneer Biryani, 84
+Paneer Burji (Spiced 
+Crumbled Tofu), 78
+Saag Paneer (Spinach 
+and Tofu), 82
+Tomatoes, 8
+Tomato Chutney, 103
+Tomato Raita, 108
+Tomato Rice, 45
+Turmeric, 3
+V
+Vegetables. See also 
+specific
+Vegetable Biryani, 46–47
+Vegetable Dal, 30
+Vegetable Korma, 67
+Y
+Yogurt substitutes, 9
+Z
+Zucchini Chana Dal, 35ACKNOWLEDGMENTS
+My editor Anna Pulley and the entire Callisto team, you are all rock stars, and this 
+book wouldn’t have come to life without you. My family and friends, you always come 
+ready with a spoon to taste anything out of my kitchen, and with a smile on your face! 
+And most importantly, my blog readers, after all these years you still inspire me to 
+keep cooking.
+I thank you all for your love and support. Happy eating!
+About the Author
+Meena Agarwal  is a Toronto-based food writer, cooking instruc-
+tor, and recipe developer. She is the creator of the award-winning 
+food blog Hooked on Heat (HookedOnHeat.com) and author of 
+two previously published cookbooks, Knack Indian Cooking  and 
+500 Indian Dishes .
+Meena’s writing and food re/f_l  ect the eclectic tastes she has 
+gathered from her Indian and Malaysian heritage, as well as her 
+travels around the globe.
