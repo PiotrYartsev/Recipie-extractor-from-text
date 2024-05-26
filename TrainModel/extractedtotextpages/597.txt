@@ -1,0 +1,113 @@
+Malate carboxy lyase, 269,279 
+Malate-lactate transhydrogenase, 270 
+Malate oxidase, 270 
+Malic acid analyses, 261 
+Malic dehydrogenase, 270 
+Malolactic bacteria 
+ammonia, 264-265 
+cultivation, 263 
+descriptions, 262-263 
+flavor effects, 248-250 
+genus identification, 264-265 
+identification, 263-268 
+intermediary metabolism, 269-272 
+microaerophilic, 263-264 
+species identification, 265-268 
+Malolactic fermentation, 244-273 
+acidulation after, 246 
+ATP, 270-272 
+bacteriological stability, 247 
+control, 254 
+conversion, 245-247 
+deacidification, 245-247 
+detection of, 260-261 
+diacetyl, 248-250 
+dimethyl dicarbonate, 259, 369-370 
+enzyme, 269, 270 
+ethanol, 255 
+fumaric acid, 259 
+histamine, 250 
+induction, 270 
+inhibition, 257-260 
+interaction yeast/bacteria, 254 
+NAD + jNADH, 270-272 
+nutrients, 255-256 
+oxygen, 256 
+pH, 246, 255, 369-370 
+pyruvic acid, 270 
+red wine, 251-252 
+sparkling wines, 253 
+spoilage, 369-373 
+stability, bacteriological, 247 
+starter cultures, 256-257 
+sterile bottling, 258-259 
+stimulation, 254-256, 270 
+strain assessment, 543 
+strain identification, 268-269 
+sulfur dioxide, 255, 257 
+sur lies, 252 
+temperature, 255, 259 
+thermodynamics, 270 
+titratable acidity, 246-247 
+Vinhos Verdes, 251, 253 
+white wine, 252-253 
+wine style, 251-253 
+Malvidin-3-glucoside, 42, 44, 223-224, 407, 410, 412 
+Mannite (see Mannitol spoilage) 
+Mannitol spoilage, 373 Index 595 
+Marketing, 4, 6, 385, 390, 424 (see also Consumer 
+preferences) 
+Maturation, 382-424 (see also Aging) 
+bulk,393 
+containers, 393-398 
+inevitability, 383, 385 
+objectives, 386-388 
+practices, 393-397, 390 
+rapid, 388, 424 
+reactions, 398 
+traditional, 383, 390-393 
+variables, 398-399 
+Mechanical harvesting, 21, 59 
+Media formulas, Appendix F 
+Membrane filters, integrity testing, 430-431 
+Membrane filtration, quality control, 435-437 (see 
+also Filtration, Sterile filtration) 
+Membrane fluidity 
+ethanol, 171 
+ethanol tolerance, 177 
+Membrane permeability, ethanol, 171 
+Membrane separations 
+juice concentration, 97, 307 
+ethanol removal, 306 
+Mercaptans (see Thiols) 
+Metabisulfite (see Sulfur dioxide) 
+Metafine (see Potassium ferrocyanide) 
+Metal content, 338 
+Metal depletion methods, 288 
+chelating resins, 288 
+potassium ferrocyanide, 287 
+Metering, of juices, musts, 70-72 
+2-Methoxy-3-isobutyl pyrazine, 50 
+2-Methyl butanol, 150 
+3-Methyl butanol, 150 
+Methylene blue stain, cell counting, 569-571 
+Metschnikowia, 117 
+spoilage yeast, 361 
+Microaerophilic bacteria, 263 
+Microbes, wine, origins of, 353-354 (see also Wine 
+microbes and Spoilage microbes) 
+Microbiological control, 352-378 
+Microbiological media, 566-567 
+Microbiological spoilage, 352-378 
+defined,353 
+diagnoses, 354-356 
+major classes, 357 
+names of, 356-357 
+origins of, 353 
+prevention, (see also Stabilization), 354 
+succession of microbes, 357 
+Microbiological stabilization, (see also Sterile filtra­
+tion, Sterile bottling) 
+physical means, 362 
+chemical means, 362-363 
+Microclimate, 24 

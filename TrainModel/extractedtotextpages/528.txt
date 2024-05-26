@@ -1,0 +1,114 @@
+The Basics: a really useful cookB ook 540100 curcumin [colouring]
+100 turmeric [colouring]101 riboflavin [colouring] 101 riboflavin 5’ phosphate 
+sodium [colouring]
+102 tartrazine [colouring]103 alkanet [colouring]104 quinoline yellow Cl 
+47005 [colouring]
+110 sunset yellow FCF 
+[colouring]
+120 carmines [colouring]120 cochineal Cl 75470 
+[colouring]
+122 azorubine [colouring]123 amaranth [colouring]124 ponceau 4R [colouring]127 erythrosine [colouring]129 allure red AC Cl 16035 
+[colouring]
+132 indigotine [colouring]133 brilliant blue FCF 
+[colouring]
+140 chlorophyll [colouring]141 chlorophyll-copper 
+complex [colouring]
+142 food green S [colouring]150 caramel [colouring]151 brilliant black BN 
+[colouring]
+153 activated vegetable 
+carbon [colouring]
+153 carbon blacks [colouring]155 brown HT [colouring]160 carotene, others 
+[colouring]
+160a beta-carotene 
+[colouring]
+160b annatto extracts 
+[colouring]
+160e beta-apo–8’ carotenal 
+[colouring]
+160f E-apo–8’ carotenoic 
+acid methyl or ethyl ester [colouring]
+161 xanthophylls [colouring]162 beet red [colouring]163 anthocyanins [colouring]170 calcium carbonate mineral 
+salt [colouring]
+171 titanium dioxide 
+[colouring]
+172 iron oxide, red, black, 
+yellow [colouring]
+174 silver [colouring]181 tannic acid [colouring]200 sorbic acid 
+[preservative]
+201 sodium sorbate 
+[preservative]
+202 potassium sorbate 
+[preservative]
+203 calcium sorbate 
+[preservative]
+210 benzoic acid 
+[preservative]
+211 sodium benzoate 
+[preservative]
+212 potassium benzoate 
+[preservative]
+213 calcium benzoate 
+[preservative]
+216 propylparaben 
+[preservative]
+218 methylparaben 
+[preservative]
+220 sulphur dioxide 
+[preservative]
+221 sodium sulphite 
+[preservative]
+222 sodium bisulphite 
+[preservative]
+223 sodium metabisulphite 
+[preservative]
+224 potassium metabisulphite 
+[preservative]
+225 potassium sulphite 
+[preservative]
+228 potassium bisulphite 
+[preservative]
+234 nisin [preservative]235 natamycin [preservative]242 dimethyl dicarbonate 
+[preservative]
+249 potassium nitrite 
+[preservative, colour fixative]
+250 sodium nitrite 
+[preservative, colour fixative]
+251 sodium nitrate 
+[preservative, colour fixative]
+252 potassium nitrate 
+[preservative, colour fixative]
+260 acetic acid, glacial 
+[food acid]
+261 potassium acetate [food 
+acid]
+262 sodium acetate [food 
+acid]
+262 sodium diacetate [food 
+acid]
+263 sodium acetate [food 
+acid]
+264 ammonium acetate [food 
+acid]
+270 lactic acid [food acid]280 propionic acid 
+[preservative]
+281 sodium propionate 
+[preservative]
+282 calcium propionate 
+[preservative]
+283 potassium propionate 
+[preservative]
+290 carbon dioxide 
+[propellant]
+296 malic acid [food acid]297 fumaric acid [food acid]300 ascorbic acid 
+[antioxidant]
+301 sodium ascorbate 
+[antioxidant]
+302 calcium ascorbate 
+[antioxidant]
+303 potassium ascorbate 
+[antioxidant]
+304 ascorbyl palmitate 
+[antioxidant]
+306 tocopherols concentrate 
+[mixed antioxidant]
+307 dl-a-tocopherol 

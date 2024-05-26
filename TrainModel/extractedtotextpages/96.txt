@@ -1,0 +1,50 @@
+Measurements and Conversions
+105FAHRENHEIT (F)CELSIUS (C)
+(approximate)
+OVEN 
+TEMPERATURES/two.tab/five.tab/zero.tab/degree.tabF /one.tab/two.tab/zero.tab/degree.tabC
+/three.tab/zero.tab/zero.tab/degree.tabF /one.tab/five.tab/zero.tab/degree.tabC
+/three.tab/two.tab/five.tab/degree.tabF /one.tab/eight.tab/zero.tab/degree.tabC
+/three.tab/seven.tab/five.tab/degree.tabF /one.tab/nine.tab/zero.tab/degree.tabC
+/four.tab/zero.tab/zero.tab/degree.tabF /two.tab/zero.tab/zero.tab/degree.tabC
+/four.tab/two.tab/five.tab/degree.tabF /two.tab/two.tab/zero.tab/degree.tabC
+/four.tab/five.tab/zero.tab/degree.tabF /two.tab/three.tab/zero.tab/degree.tabCUS STANDARDUS STANDARD 
+(ounces)METRIC 
+(approximate)
+VOLUME 
+EQUIVALENTS 
+(Liquid)/two.tab/space.tabtablespoons /one.tab/space.tabfl/period.tab/space.taboz/period.tab /three.tab/zero.tab/space.tabmL
+¼/space.tabcup /two.tab/space.tabfl/period.tab/space.taboz/period.tab /six.tab/zero.tab/space.tabmL
+½/space.tabcup /four.tab/space.tabfl/period.tab/space.taboz/period.tab /one.tab/two.tab/zero.tab/space.tabmL
+/one.tab/space.tabcup /eight.tab/space.tabfl/period.tab/space.taboz/period.tab /two.tab/four.tab/zero.tab/space.tabmL
+/one.tab ½/space.tabcups /one.tab/two.tab/space.tabfl/period.tab/space.taboz/period.tab /three.tab/five.tab/five.tab/space.tabmL
+/two.tab/space.tabcups/space.tabor/space.tab/one.tab/space.tabpint /one.tab/six.tab/space.tabfl/period.tab/space.taboz/period.tab /four.tab/seven.tab/five.tab/space.tabmL
+/four.tab/space.tabcups/space.tabor/space.tab/one.tab/space.tabquart /three.tab/two.tab/space.tabfl/period.tab/space.taboz/period.tab /one.tab/space.tabL
+/one.tab/space.tabgallon /one.tab/two.tab/eight.tab/space.tabfl/period.tab/space.taboz/period.tab /four.tab/space.tabL
+VOLUME 
+EQUIVALENTS 
+(Dry)⅛/space.tabteaspoon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /zero.tab/period.tab/five.tab/space.tabmL
+¼/space.tabteaspoon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/space.tabmL
+½/space.tabteaspoon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /two.tab/space.tabmL
+¾/space.tabteaspoon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /four.tab/space.tabmL
+/one.tab/space.tabteaspoon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /five.tab/space.tabmL
+/one.tab/space.tabtablespoon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/five.tab/space.tabmL
+¼/space.tabcup /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /five.tab/nine.tab/space.tabmL
+⅓/space.tabcup /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /seven.tab/nine.tab/space.tabmL
+½/space.tabcup /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/one.tab/eight.tab/space.tabmL
+⅔/space.tabcup /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/five.tab/six.tab/space.tabmL
+¾/space.tabcup /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/seven.tab/seven.tab/space.tabmL
+/one.tab/space.tabcup /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /two.tab/three.tab/five.tab/space.tabmL
+/two.tab/space.tabcups/space.tabor/space.tab/one.tab/space.tabpint /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /four.tab/seven.tab/five.tab/space.tabmL
+/three.tab/space.tabcups /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /seven.tab/zero.tab/zero.tab/space.tabmL
+/four.tab/space.tabcups/space.tabor/space.tab/one.tab/space.tabquart /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/space.tabL
+½/space.tabgallon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /two.tab/space.tabL
+/one.tab/space.tabgallon /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /four.tab/space.tabL
+WEIGHT 
+EQUIVALENTS½/space.tabounce /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/five.tab/space.tabg
+/one.tab/space.tabounce /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /three.tab/zero.tab/space.tabg
+/two.tab/space.tabounces /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /six.tab/zero.tab/space.tabg
+/four.tab/space.tabounces /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /one.tab/one.tab/five.tab/space.tabg
+/eight.tab/space.tabounces /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /two.tab/two.tab/five.tab/space.tabg
+/one.tab/two.tab/space.tabounces /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /three.tab/four.tab/zero.tab/space.tabg
+/one.tab/six.tab/space.tabounces/space.tabor/space.tab/one.tab/space.tabpound /space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab/space.tab /four.tab/five.tab/five.tab/space.tabg

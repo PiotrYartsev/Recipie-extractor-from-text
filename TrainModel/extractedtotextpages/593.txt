@@ -1,0 +1,112 @@
+kinetics of, 141-146 
+mixed, 125 
+modeling, 207 
+monitoring, 206 
+aggregate measures, 207 
+point sampling, 206 
+natural, 124 
+non induced (see natural) 
+rates of, 141, 144-145 
+sluggish/stuck, 134, 168 
+ethanol toxicity, 170-172 
+nutrient deficiency, 134, 169 
+temperature effect, 173 
+toxins as cause, 172-173 
+spontaneous (see natural) 
+temperature rise, 200 
+tests, 114, 118 
+volume changes during, 203 
+(see also Malolactic) 
+Fermentors 
+barrels as, 202-204 
+circulation patterns in, 211 
+cleaning, 210 
+expansion and contraction, 209 
+filling and emptying, 209 
+gas venting, 209 
+headspace (ullage), 210 
+rotary, 211 
+shapes, 210 
+upright, 210 
+Ferocious lactobacilli, 268, 371 
+Ferrocyanide (see Potassium ferrocyanide) 
+Fertaric acid, 42 
+Ferulic acid, 42 
+Field crushing, 66 
+Fillers, sterile bottling, 437-438 
+Filters 
+cartridge, 302 
+charged-modified media, 431 
+crossflow, 303 
+diatomaceous earth, 295 
+lees, 78 
+membrane, 302 
+pad, 299, 300 
+plate and frame, 300 
+pressure leaf, 295 
+rotary vacuum, 78 
+sheet, 300 
+Filterability 
+Exponential equation, 309 
+Crossflow equation, 312 
+indices of, 308 
+models for, 308 
+Power equation, 310 
+Sperry equation, 309 
+testing, 307, 312 Filtration 
+crossflow, 303 
+diatomaceous earth, 295 
+pad or sheet, 299, 300 
+prediction of, 308 
+measures of capacity, 313 
+membrane, 428 
+sterile, 428 
+Fining 
+adsorption models, 281 
+agents, 281, 282 
+levels of addition, 283 
+Fire, 11-12 
+Fission, yeast, 105 
+Fittings, 482 
+Flammability limits, 564-565 
+Flash point, 565 
+Flavan-3-01s (see Catechin) 
+Flavonoid phenols, 42, 44, 45-46 Index 591 
+extraction during red fermentations, 225 
+from skin contact, 69, 212 
+Flavor, 383, 387-388, 392, 420, 422 
+malolactic fermentation, 248-250 
+Flavor production, by yeast strain, 118 
+Flavored wines, Special Natural, vermouths, 2 
+Flexible impeller pumps, 476 
+Fortified wines, 237 
+aging, 238 
+fermentation temperatures, 237 
+must handling, 237 
+selection of spirit, 237 
+spoilage, 371-372 
+timing of fortification, 237 
+Fraturia 
+genera, 374-375 
+in juices, 374 
+Freezing of wine bottles, 441 
+Freons,514 
+Freundlich equation, 280 
+Frictional loss in pipelines, 478 
+expansions/contractions, 485 
+fi ttings, 482 
+length, 481 
+nomogram for predicting, 487 
+valves, 483 
+Frost, 27, 29 
+Fructophilic yeast, 140, 363 
+Fructose, 39, 41, 53, 158 
+malolactic, 271 
+metabolism (see Glycolysis) 
+transport in yeast, 158 
+Fruit wines, 2 
+Fumaric acid, 434 
+malolactic, 259 
+Furfural, 423 
+Fusel alcohol(s) (see Higher alcohols) 
+Fusel oil(s) (see Higher alcohols) 

@@ -1,0 +1,111 @@
+Sulfur dioxide, 10-11, 60, 408 
+antimicrobial action, 84, 454 
+bacteria, 456 
+yeast, 455 
+binding equilibria, 459 
+binding kinetics, 461 
+chemical properties, 454 
+effect of pH on forms, 449 
+inactivation of phenol oxidase, 82-83, 459 
+inhibition of enzymes, 82, 459 
+ionization of, 449 
+loss after bottling, 442-443, 451, 467-468 
+malolactic, 255,257, 369-370 
+physical properties, 448 
+preparations, 453 
+reactions 
+with oxygen, 464, 468 
+with peroxide, 469 
+with thiamin, 462 
+with thiols, 463 
+sensory threshold, 452 
+solubility, 448 
+sulfate formation, 464 
+toxicity of, 10 
+volatile loss, 467 
+volatility, 451 
+Zygosaccharomyces, 363 
+Sulfur volatiles, 173 
+Sunburn, 29, 34 
+Sunlight, 34, 49, 51 
+Superoxide,568 
+dismutase,568 
+Sur lies 
+malolactic, 252 
+white table wine, 217 
+Survival factors 
+active dry wine yeast, 124 
+ethanol tolerance, 177 
+growth factors, 172 
+sterols, 171 
+unsaturated fatty acids, 171 
+Suspended solids 
+effect on Brix measurement, 193 
+effect on fermentation rate, 213 
+Sweet wines, 21 (see also Dessert wines, botrytis) 
+Syruped fermentation, 217 
+T 
+Tangential filtration (see Crossflow filtration) 
+Tanks (see Barrels, Containers, Stainless steel) 
+Tannin(s), 44-46, 223-224, 227, 412 (see also 
+Ellagitannins, Phenols, Procyanidins) 
+Tannin extraction, 227-228, 230 
+Tartaric acid, 38, 39 (see also Acids, Acidity) Tartrate stability, 320, 335 
+cold holding test, 328 
+concentration products, 322, 335 
+freeze test, 328 
+rate approach, 325, 335 Index 601 
+seeded conductivity tests, 328, 336-337 
+solubility products, 322 
+Taste Testing (see Analysis, sensory) 
+Taxonomic identification examples, yeast, 109 
+Taxonomic key, yeast genera, 105, 108 
+Taxonomy of yeasts, 104-121 
+TCA (see Tricarboxylic acid cycle) 
+TCA (see Trichloroacetic acid test) 
+TCA (see 2,4,6- Trichloroanisole) 
+TDN (I,I,6-trimethyl-l,2-dihydronapthalene), 50, 
+423 
+Temperature, 46, 49, 51, 395-396 
+aging, 389-390 
+coefficient, QlO, 389 
+control during fermentation, 200-204 
+patterns in barrel fermentations, 202, 204 
+effect on malolactic, 255, 257, 259 
+effect on rates of reaction (see Rates) 
+effect on viscosity, 482 
+effect on wine volume, 209-210 
+rate effects, reaction kinetics, 389-390 
+Terpenoids, 49-50, 387, 423 
+Thermodynamics, malolactic, 270 
+Thermovinification, 69, 88 
+Thiamin, 
+deficiency in juice, 82 
+reaction with sulfite, 462 
+Thinning, 33 
+Thiols 
+ethane thiol, 176 
+formation during fermentation, 176 
+formation from disulfides, 463 
+methane thiol, 176 
+sensory thresholds, 176 
+Tight bunging, 405-406 
+Time-temperature effects, 382, 389-390, 423-424 
+Titratable acidity, 523 
+Tomato juice factor, 263 
+Topping 
+barrels, 405, 407 
+vines, 34 
+Trmtiaspora, 114, 115 
+as spoilage yeast, 361 
+Tourne spoilage, 357 
+Toxicity (see Ethanol toxicity) 
+Transport of bottled wine 
+temperature, 442 
+temperature variation, 442 
+Transport of substrates 
+amino acids, 157-158 
+ammonia, 159 
+proton symport, 156-157 
+sugar, 158-159 
+systems, 155-156 

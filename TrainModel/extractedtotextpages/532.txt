@@ -1,0 +1,29 @@
+The Basics: a really useful cookB ook 544[thickener, vegetable 
+gum]
+1405 enzyme-treated starches 
+[thickener, vegetable gum]
+1410 monostarch phosphate 
+[thickener, vegetable gum]
+1412 distarch phosphate 
+[thickener, vegetable gum]
+1413 phosphated distarch 
+phosphate [thickener, vegetable gum]
+1414 acetylated distarch 
+phosphate [thickener, vegetable gum]
+1420 starch acetate esterified 
+with acetic anhydride [thickener, vegetable gum]
+1421 starch acetate esterified 
+with vinyl acetate [thickener, vegetable gum]
+1422 acetylated distarch 
+adipate [thickener, vegetable gum]
+1440 hydroxypropyl starch 
+[thickener, vegetable gum]
+1442 hydroxypropyl distarch phosphate [thickener, vegetable gum]
+1450 starch sodium 
+octenylsuccinate [thickener, vegetable gum]
+1505 triethyl citrate 
+[thickener, vegetable gum]
+1518 triacetin [humectant]1520 propylene glycol 
+[humectant]
+1521 polyethylene glycol 
+8000 [antifoaming agent]
