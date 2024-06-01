@@ -1,0 +1,49 @@
+@startuml
+title Recipe Extraction System Diagram
+
+package "Recipe Extraction System" {
+    rectangle "Text Extraction Module" as TEM
+    database "Find all books in directory" as FAB
+    database "Open them one by one" as OTO
+    database "Extract text for each page and save to txt file" as ET
+    database "Close the file" as CF
+    database "Repeat" as R
+
+    rectangle "Manual Classification" as MC
+    database "Manually mark the pages as recipes or not" as MM
+    database "Manually mark the pages as continuous or not" as MCN
+
+    rectangle "Page Classification Module" as PCM
+    database "Use the data you generated to train the 'sentence-transformers/all-mpnet-base-v2' model" as UT
+    database "Test the new model on new data" as TN
+    database "If good, save the model for future use" as SM
+
+    rectangle "Page Continuity Module" as PCM2
+    rectangle "Recipe Extraction Module" as REM
+    rectangle "Additional Information Extraction Module" as AIEM
+    rectangle "Storage Module" as SM2
+    rectangle "User Interface Module" as UIM
+
+    TEM --> FAB
+    FAB --> OTO
+    OTO --> ET
+    ET --> CF
+    CF --> R
+    R --> MC
+
+    MC --> MM
+    MM --> MCN
+    MCN --> PCM
+
+    PCM --> UT
+    UT --> TN
+    TN --> SM
+    SM --> PCM2
+
+    PCM2 --> REM
+    REM --> AIEM
+    AIEM --> SM2
+    SM2 --> UIM
+}
+
+@enduml
