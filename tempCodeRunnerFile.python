@@ -1,0 +1,78 @@
+import os
+import tkinter as tk
+from tkinter import messagebox
+from tkinter import filedialog
+
+class App:
+    def __init__(self, root, files):
+        self.files = files
+        self.index = 0
+        self.data = {}
+        self.root = root
+        self.root.title("Data Marker")
+
+        self.text = tk.Text(root)
+        self.text.pack()
+
+        self.is_recipe_var = tk.IntVar()
+        self.is_continuous_var = tk.IntVar()
+        self.many_recipes_var = tk.IntVar()
+
+        self.is_recipe_cb = tk.Checkbutton(root, text="Is Recipe", variable=self.is_recipe_var)
+        self.is_recipe_cb.pack()
+
+        self.is_continuous_cb = tk.Checkbutton(root, text="Is Continuous", variable=self.is_continuous_var)
+        self.is_continuous_cb.pack()
+
+        self.many_recipes_cb = tk.Checkbutton(root, text="Many Recipes", variable=self.many_recipes_var)
+        self.many_recipes_cb.pack()
+
+        self.next_button = tk.Button(root, text="Next", command=self.next_file)
+        self.next_button.pack()
+
+        self.prev_button = tk.Button(root, text="Previous", command=self.prev_file)
+        self.prev_button.pack()
+
+        self.load_file()
+
+    def load_file(self):
+        filename = self.files[self.index]
+        with open(filename, 'r') as file:
+            content = file.read()
+        self.text.delete(1.0, tk.END)
+        self.text.insert(tk.END, content)
+
+        data = self.data.get(filename, [0, 0, 0])
+        self.is_recipe_var.set(data[0])
+        self.is_continuous_var.set(data[1])
+        self.many_recipes_var.set(data[2])
+
+    def save_data(self):
+        filename = self.files[self.index]
+        self.data[filename] = [self.is_recipe_var.get(), self.is_continuous_var.get(), self.many_recipes_var.get()]
+
+    def next_file(self):
+        self.save_data()
+        if self.index < len(self.files) - 1:
+            self.index += 1
+            self.load_file()
+        else:
+            messagebox.showinfo("Information", "This is the last file.")
+
+    def prev_file(self):
+        self.save_data()
+        if self.index > 0:
+            self.index -= 1
+            self.load_file()
+        else:
+            messagebox.showinfo("Information", "This is the first file.")
+
+def main():
+    root = tk.Tk()
+    directory = filedialog.askdirectory()
+    files = sorted([os.path.join(directory, file) for file in os.listdir(directory) if file.endswith('.txt')])
+    app = App(root, files)
+    root.mainloop()
+
+if __name__ == "__main__":
+    main()
